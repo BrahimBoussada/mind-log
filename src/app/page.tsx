@@ -8,7 +8,12 @@ export default function Home() {
       <NoteWrapper>
         <Note>
           <N>1.</N> <Key>Geoffrey Hinton</Key> played a major role in the
-          foundation for modern AI.
+          foundation of modern AI.
+        </Note>
+
+        <Note>
+          <N>2.</N> The World Wide Web, HTML, URLs, and HTTP were invented by{" "}
+          <Key>Tim Berners-Lee</Key> at CERN beginning in 1989.
         </Note>
       </NoteWrapper>
     </Container>
