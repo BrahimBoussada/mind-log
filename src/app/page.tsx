@@ -15,6 +15,11 @@ export default function Home() {
           <N>2.</N> The World Wide Web, HTML, URLs, and HTTP were invented by{" "}
           <Key>Tim Berners-Lee</Key> at CERN beginning in 1989.
         </Note>
+
+        <Note>
+          <N>3.</N> <Key>Atoms</Key> are composed of a nucleus with protons and
+          neutrons, surrounded by electrons.
+        </Note>
       </NoteWrapper>
     </Container>
   );
