@@ -9,7 +9,9 @@ export const NoteWrapper = ({ children }: NoteProps) => {
 };
 
 export const Note = ({ children }: NoteProps) => {
-  return <li className="pl-6 -indent-6 mb-2 tracking-[-.01em]">{children}</li>;
+  return (
+    <li className="pl-6 -indent-6 mb-2.5 tracking-[-.01em]">{children}</li>
+  );
 };
 
 export const Key = ({ children }: NoteProps) => {

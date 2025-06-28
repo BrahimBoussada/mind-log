@@ -29,6 +29,13 @@ export default function Home() {
           artificial, self-regulate by measuring their output and making
           adjustments to achieve a goal.
         </Note>
+
+        <Note>
+          <N>5. </N>
+          <Key>The electromagnetic spectrum</Key> is the full range of all
+          electromagnetic wave frequencies, including radio waves, microwaves,
+          infrared, visible light, ultraviolet, X-rays, and gamma rays.
+        </Note>
       </NoteWrapper>
     </Container>
   );
