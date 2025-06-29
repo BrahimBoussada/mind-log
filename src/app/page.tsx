@@ -36,6 +36,12 @@ export default function Home() {
           electromagnetic wave frequencies, including radio waves, microwaves,
           infrared, visible light, ultraviolet, X-rays, and gamma rays.
         </Note>
+
+        <Note>
+          <N>6. </N>A <Key>quantum</Key> is the smallest measurable unit of
+          energy or matter that behaves according to the rules of quantum
+          mechanics.
+        </Note>
       </NoteWrapper>
     </Container>
   );
