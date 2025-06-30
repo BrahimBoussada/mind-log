@@ -42,6 +42,12 @@ export default function Home() {
           energy or matter that behaves according to the rules of quantum
           mechanics.
         </Note>
+
+        <Note>
+          <N>7. </N>
+          <Key>Roy Fielding</Key> created the REST concept in his 2000 PhD
+          thesis to define a scalable, stateless architecture for web APIs.
+        </Note>
       </NoteWrapper>
     </Container>
   );
