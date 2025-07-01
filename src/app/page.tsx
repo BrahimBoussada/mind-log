@@ -48,6 +48,12 @@ export default function Home() {
           <Key>Roy Fielding</Key> created the REST concept in his 2000 PhD
           thesis to define a scalable, stateless architecture for web APIs.
         </Note>
+
+        <Note>
+          <N>8. </N>
+          <Key>Linux</Key> was developed in 1991 by Linus Torvalds as a free and
+          open-source operating system kernel.
+        </Note>
       </NoteWrapper>
     </Container>
   );
