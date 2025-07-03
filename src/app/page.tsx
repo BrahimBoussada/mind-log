@@ -54,6 +54,12 @@ export default function Home() {
           <Key>Linux</Key> was developed in 1991 by Linus Torvalds as a free and
           open-source operating system kernel.
         </Note>
+
+        <Note>
+          <N>9. </N>A <Key>lexicon</Key> is a specialized dictionary that
+          systematically records the words of a language, including their
+          meanings, origins, and usage.
+        </Note>
       </NoteWrapper>
     </Container>
   );
