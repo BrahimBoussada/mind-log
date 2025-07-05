@@ -60,6 +60,13 @@ export default function Home() {
           systematically records the words of a language, including their
           meanings, origins, and usage.
         </Note>
+
+        <Note>
+          <N>9. </N>
+          <Key>Synthesis</Key> is the process of producing a new substance,
+          idea, or system by chemically, logically, or creatively combining two
+          or more distinct components or elements.
+        </Note>
       </NoteWrapper>
     </Container>
   );
