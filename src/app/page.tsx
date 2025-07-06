@@ -67,6 +67,12 @@ export default function Home() {
           idea, or system by chemically, logically, or creatively combining two
           or more distinct components or elements.
         </Note>
+
+        <Note>
+          <N>10. </N>
+          <Key>Methodology</Key> is the systematic set of methods, rules, and
+          principles used to conduct research or carry out a particular process.
+        </Note>
       </NoteWrapper>
     </Container>
   );
