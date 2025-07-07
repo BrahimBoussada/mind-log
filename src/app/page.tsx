@@ -73,6 +73,13 @@ export default function Home() {
           <Key>Methodology</Key> is the systematic set of methods, rules, and
           principles used to conduct research or carry out a particular process.
         </Note>
+
+        <Note>
+          <N>11. </N>
+          An <Key>algorithm</Key> is a defined sequence of logical steps or
+          rules designed to perform a specific task or solve a particular
+          problem efficiently.
+        </Note>
       </NoteWrapper>
     </Container>
   );
