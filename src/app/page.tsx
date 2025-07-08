@@ -80,6 +80,12 @@ export default function Home() {
           rules designed to perform a specific task or solve a particular
           problem efficiently.
         </Note>
+
+        <Note>
+          <N>12. </N>A <Key>prodigy</Key> is a young person who demonstrates
+          exceptional talent or ability in a particular field at an unusually
+          early age.
+        </Note>
       </NoteWrapper>
     </Container>
   );
