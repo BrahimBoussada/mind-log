@@ -86,6 +86,12 @@ export default function Home() {
           exceptional talent or ability in a particular field at an unusually
           early age.
         </Note>
+
+        <Note>
+          <N>13. </N>
+          <Key>Etymology</Key> is the study of the origin and history of words
+          and how their meanings and forms have evolved over time.
+        </Note>
       </NoteWrapper>
     </Container>
   );
