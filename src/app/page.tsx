@@ -92,6 +92,12 @@ export default function Home() {
           <Key>Etymology</Key> is the study of the origin and history of words
           and how their meanings and forms have evolved over time.
         </Note>
+
+        <Note>
+          <N>14. </N>
+          <Key>Numbers</Key> are mathematical symbols used to count, measure,
+          label, and represent quantities or values.
+        </Note>
       </NoteWrapper>
     </Container>
   );
