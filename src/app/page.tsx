@@ -98,6 +98,20 @@ export default function Home() {
           <Key>Numbers</Key> are mathematical symbols used to count, measure,
           label, and represent quantities or values.
         </Note>
+
+        <Note>
+          <N>15. </N>
+          <Key>DNS</Key> is a system that translates human-readable domain names
+          into numerical IP addresses, allowing computers to locate and connect
+          to each other on the internet.
+        </Note>
+
+        <Note>
+          <N>16. </N>
+          <Key>Cognition</Key> refers to the mental action or process of
+          acquiring knowledge and understanding through thought, experience, and
+          the senses.
+        </Note>
       </NoteWrapper>
     </Container>
   );
