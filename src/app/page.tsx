@@ -112,6 +112,12 @@ export default function Home() {
           acquiring knowledge and understanding through thought, experience, and
           the senses.
         </Note>
+
+        <Note>
+          <N>17. </N>
+          <Key>Ephemera</Key> means things that are temporary or short-lived,
+          such as moments, events, or objects that don’t last long.
+        </Note>
       </NoteWrapper>
     </Container>
   );
