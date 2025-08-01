@@ -118,6 +118,12 @@ export default function Home() {
           <Key>Ephemera</Key> means things that are temporary or short-lived,
           such as moments, events, or objects that don’t last long.
         </Note>
+
+        <Note>
+          <N>18. </N>
+          <Key>Relativity</Key> is the theory that space and time change
+          depending on speed and gravity.
+        </Note>
       </NoteWrapper>
     </Container>
   );
