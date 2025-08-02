@@ -124,6 +124,14 @@ export default function Home() {
           <Key>Relativity</Key> is the theory that space and time change
           depending on speed and gravity.
         </Note>
+
+        <Note>
+          <N>19. </N>
+          <Key>Intelligence</Key> is The ability to acquire and apply knowledge
+          and skills, including reasoning, problem-solving, and understanding
+          complex concepts, as well as evaluating moral and ethical
+          considerations.
+        </Note>
       </NoteWrapper>
     </Container>
   );
