@@ -132,6 +132,13 @@ export default function Home() {
           complex concepts, as well as evaluating moral and ethical
           considerations.
         </Note>
+
+        <Note>
+          <N>20. </N>
+          <Key>Topology</Key> is the arrangement and connection of parts within
+          a system, focusing on how elements relate rather than their exact
+          form.
+        </Note>
       </NoteWrapper>
     </Container>
   );
