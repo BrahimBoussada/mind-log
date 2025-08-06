@@ -139,6 +139,12 @@ export default function Home() {
           a system, focusing on how elements relate rather than their exact
           form.
         </Note>
+
+        <Note>
+          <N>21. </N>
+          <Key>G-force</Key> is the measure of acceleration acting on an object,
+          expressed as a multiple of Earth's gravity (1 G = 9.8 m/s²).
+        </Note>
       </NoteWrapper>
     </Container>
   );
