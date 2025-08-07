@@ -145,6 +145,13 @@ export default function Home() {
           <Key>G-force</Key> is the measure of acceleration acting on an object,
           expressed as a multiple of Earth's gravity (1 G = 9.8 m/s²).
         </Note>
+
+        <Note>
+          <N>22. </N>
+          <Key>Geology</Key> is the scientific study of Earth's physical
+          structure, composition, and the dynamic processes such as tectonic
+          activity, volcanism, and erosion that have shaped it over geological
+        </Note>
       </NoteWrapper>
     </Container>
   );
