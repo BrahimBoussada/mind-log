@@ -139,6 +139,13 @@ export default function Home() {
           a protective green patina that characterizes its surface and inhibits
           further corrosion.
         </Note>
+
+        <Note>
+          <N>24. </N>
+          <Key>Enumeration</Key> is the systematic process of listing or
+          counting items to identify, organize, and account for each element,
+          often to facilitate analysis or derive meaning.
+        </Note>
       </NoteWrapper>
     </Container>
   );
