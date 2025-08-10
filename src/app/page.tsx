@@ -28,7 +28,7 @@ export default function Home() {
         </Note>
         <Note>
           <N>5. </N>
-          <Key>The electromagnetic spectrum</Key> is the full range of all
+          <Key>The Electromagnetic Spectrum</Key> is the full range of all
           electromagnetic wave frequencies, including radio waves, microwaves,
           infrared, visible light, ultraviolet, X-rays, and gamma rays.
         </Note>
@@ -145,6 +145,13 @@ export default function Home() {
           <Key>Enumeration</Key> is the systematic process of listing or
           counting items to identify, organize, and account for each element,
           often to facilitate analysis or derive meaning.
+        </Note>
+
+        <Note>
+          <N>25. </N>
+          <Key>NTFS (New Technology File System)</Key> is a Microsoft file
+          system that organizes data on disks, supports large files and
+          permissions, and uses journaling to prevent data corruption.
         </Note>
       </NoteWrapper>
     </Container>
