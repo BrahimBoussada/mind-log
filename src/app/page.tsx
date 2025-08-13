@@ -153,6 +153,13 @@ export default function Home() {
           system that organizes data on disks, supports large files and
           permissions, and uses journaling to prevent data corruption.
         </Note>
+
+        <Note>
+          <N>25. </N>
+          <Key>Lobotomy</Key> is a neurosurgical procedure that severes
+          connections in the prefrontal cortex to treat psychiatric disorders,
+          often causing significant cognitive and personality changes.
+        </Note>
       </NoteWrapper>
     </Container>
   );
