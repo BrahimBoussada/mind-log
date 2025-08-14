@@ -131,7 +131,6 @@ export default function Home() {
           activity, volcanism, and erosion that have shaped it over geological
           time.
         </Note>
-
         <Note>
           <N>23. </N>
           <Key>Copper</Key> is a reddish-brown metal prized for its intrinsic
@@ -139,26 +138,29 @@ export default function Home() {
           a protective green patina that characterizes its surface and inhibits
           further corrosion.
         </Note>
-
         <Note>
           <N>24. </N>
           <Key>Enumeration</Key> is the systematic process of listing or
           counting items to identify, organize, and account for each element,
           often to facilitate analysis or derive meaning.
         </Note>
-
         <Note>
           <N>25. </N>
           <Key>NTFS (New Technology File System)</Key> is a Microsoft file
           system that organizes data on disks, supports large files and
           permissions, and uses journaling to prevent data corruption.
         </Note>
-
         <Note>
           <N>25. </N>
           <Key>Lobotomy</Key> is a neurosurgical procedure that severes
           connections in the prefrontal cortex to treat psychiatric disorders,
           often causing significant cognitive and personality changes.
+        </Note>
+
+        <Note>
+          <N>26. </N>
+          <Key>Fibonacci Sequence</Key> is a series where each number is the sum
+          of the two before, and its ratios approach the golden ratio (~1.618).
         </Note>
       </NoteWrapper>
     </Container>
