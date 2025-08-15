@@ -48,7 +48,7 @@ export default function Home() {
           open-source operating system kernel.
         </Note>
         <Note>
-          <N>9. </N>A <Key>lexicon</Key> is a specialized dictionary that
+          <N>9. </N>A <Key>Lexicon</Key> is a specialized dictionary that
           systematically records the words of a language, including their
           meanings, origins, and usage.
         </Note>
@@ -65,12 +65,12 @@ export default function Home() {
         </Note>
         <Note>
           <N>11. </N>
-          An <Key>algorithm</Key> is a defined sequence of logical steps or
+          An <Key>Algorithm</Key> is a defined sequence of logical steps or
           rules designed to perform a specific task or solve a particular
           problem efficiently.
         </Note>
         <Note>
-          <N>12. </N>A <Key>prodigy</Key> is a young person who demonstrates
+          <N>12. </N>A <Key>Prodigy</Key> is a young person who demonstrates
           exceptional talent or ability in a particular field at an unusually
           early age.
         </Note>
@@ -108,7 +108,7 @@ export default function Home() {
         </Note>
         <Note>
           <N>19. </N>
-          <Key>Intelligence</Key> is The ability to acquire and apply knowledge
+          <Key>Intelligence</Key> is the ability to acquire and apply knowledge
           and skills, including reasoning, problem-solving, and understanding
           complex concepts, as well as evaluating moral and ethical
           considerations.
@@ -161,6 +161,13 @@ export default function Home() {
           <N>26. </N>
           <Key>Fibonacci Sequence</Key> is a series where each number is the sum
           of the two before, and its ratios approach the golden ratio (~1.618).
+        </Note>
+
+        <Note>
+          <N>27. </N>
+          <Key>NPC</Key> (non-player character) is an entity within a simulated
+          environment that functions independently of direct user control, often
+          influencing the progression or atmosphere of the simulation.
         </Note>
       </NoteWrapper>
     </Container>
