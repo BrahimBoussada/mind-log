@@ -169,6 +169,12 @@ export default function Home() {
           environment that functions independently of direct user control, often
           influencing the progression or atmosphere of the simulation.
         </Note>
+
+        <Note>
+          <N>28. </N>
+          <Key>Bot</Key> is an automated program that carries out tasks
+          independently, usually by following predefined rules or algorithms.
+        </Note>
       </NoteWrapper>
     </Container>
   );
