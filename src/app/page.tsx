@@ -175,6 +175,13 @@ export default function Home() {
           <Key>Bot</Key> is an automated program that carries out tasks
           independently, usually by following predefined rules or algorithms.
         </Note>
+
+        <Note>
+          <N>29. </N>
+          <Key>Exoskeleton</Key> is a rigid outer covering that protects an
+          animal’s body, supports its shape, and prevents water loss. Unlike
+          bones inside the body, it’s on the outside.
+        </Note>
       </NoteWrapper>
     </Container>
   );
