@@ -182,6 +182,14 @@ export default function Home() {
           animal’s body, supports its shape, and prevents water loss. Unlike
           bones inside the body, it’s on the outside.
         </Note>
+
+        <Note>
+          <N>30. </N>
+          <Key>Bandwidth</Key> is the maximum amount of data a USB cable or
+          connection can transmit per second, measured in bits per second (bps).
+          Higher bandwidth allows faster file transfers and smoother device
+          performance.
+        </Note>
       </NoteWrapper>
     </Container>
   );
