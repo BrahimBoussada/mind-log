@@ -33,7 +33,7 @@ export default function Home() {
           infrared, visible light, ultraviolet, X-rays, and gamma rays.
         </Note>
         <Note>
-          <N>6. </N>A <Key>quantum</Key> is the smallest measurable unit of
+          <N>6. </N>A <Key>Quantum</Key> is the smallest measurable unit of
           energy or matter that behaves according to the rules of quantum
           mechanics.
         </Note>
@@ -189,6 +189,13 @@ export default function Home() {
           connection can transmit per second, measured in bits per second (bps).
           Higher bandwidth allows faster file transfers and smoother device
           performance.
+        </Note>
+
+        <Note>
+          <N>31. </N>
+          <Key>A firewall</Key> is a security system that blocks unauthorized
+          network access while allowing safe communication, protecting computers
+          and networks from cyber threats.
         </Note>
       </NoteWrapper>
     </Container>
