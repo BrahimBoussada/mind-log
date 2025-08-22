@@ -33,9 +33,9 @@ export default function Home() {
           infrared, visible light, ultraviolet, X-rays, and gamma rays.
         </Note>
         <Note>
-          <N>6. </N>A <Key>Quantum</Key> is the smallest measurable unit of
-          energy or matter that behaves according to the rules of quantum
-          mechanics.
+          <N>6. </N>
+          <Key>Quantum</Key> is the smallest measurable unit of energy or matter
+          that behaves according to the rules of quantum mechanics.
         </Note>
         <Note>
           <N>7. </N>
@@ -48,9 +48,10 @@ export default function Home() {
           open-source operating system kernel.
         </Note>
         <Note>
-          <N>9. </N>A <Key>Lexicon</Key> is a specialized dictionary that
-          systematically records the words of a language, including their
-          meanings, origins, and usage.
+          <N>9. </N>
+          <Key>Lexicon</Key> is a specialized dictionary that systematically
+          records the words of a language, including their meanings, origins,
+          and usage.
         </Note>
         <Note>
           <N>9. </N>
@@ -65,14 +66,14 @@ export default function Home() {
         </Note>
         <Note>
           <N>11. </N>
-          An <Key>Algorithm</Key> is a defined sequence of logical steps or
-          rules designed to perform a specific task or solve a particular
-          problem efficiently.
+          <Key>Algorithm</Key> is a defined sequence of logical steps or rules
+          designed to perform a specific task or solve a particular problem
+          efficiently.
         </Note>
         <Note>
-          <N>12. </N>A <Key>Prodigy</Key> is a young person who demonstrates
-          exceptional talent or ability in a particular field at an unusually
-          early age.
+          <N>12. </N>
+          <Key>Prodigy</Key> is a young person who demonstrates exceptional
+          talent or ability in a particular field at an unusually early age.
         </Note>
         <Note>
           <N>13. </N>
@@ -165,7 +166,7 @@ export default function Home() {
 
         <Note>
           <N>27. </N>
-          <Key>NPC</Key> (non-player character) is an entity within a simulated
+          <Key>NPC (Non-Player Character)</Key> is an entity within a simulated
           environment that functions independently of direct user control, often
           influencing the progression or atmosphere of the simulation.
         </Note>
@@ -179,8 +180,8 @@ export default function Home() {
         <Note>
           <N>29. </N>
           <Key>Exoskeleton</Key> is a rigid outer covering that protects an
-          animal’s body, supports its shape, and prevents water loss. Unlike
-          bones inside the body, it’s on the outside.
+          animal’s body and supports its shape. Unlike bones inside the body,
+          it’s on the outside.
         </Note>
 
         <Note>
@@ -193,9 +194,16 @@ export default function Home() {
 
         <Note>
           <N>31. </N>
-          <Key>A firewall</Key> is a security system that blocks unauthorized
+          <Key>Firewall</Key> is a security system that blocks unauthorized
           network access while allowing safe communication, protecting computers
           and networks from cyber threats.
+        </Note>
+
+        <Note>
+          <N>32. </N>
+          <Key>Mutualism</Key> is a symbiotic relationship in which both species
+          benefit, such as bees obtaining nectar from flowers while aiding in
+          their pollination.
         </Note>
       </NoteWrapper>
     </Container>
