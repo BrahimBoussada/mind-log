@@ -194,16 +194,23 @@ export default function Home() {
 
         <Note>
           <N>31. </N>
-          <Key>Firewall</Key> is a security system that blocks unauthorized
-          network access while allowing safe communication, protecting computers
-          and networks from cyber threats.
+          <Key>Mutualism</Key> is a symbiotic relationship in which both species
+          benefit, such as bees obtaining nectar from flowers while aiding in
+          their pollination.
         </Note>
 
         <Note>
           <N>32. </N>
-          <Key>Mutualism</Key> is a symbiotic relationship in which both species
-          benefit, such as bees obtaining nectar from flowers while aiding in
-          their pollination.
+          <Key>Parasitism</Key> is a symbiotic relationship in which one species
+          benefits while the other is harmed, such as tapeworms occupying the
+          intestines of humans and draining nutrients at the host’s expense.
+        </Note>
+
+        <Note>
+          <N>33. </N>
+          <Key>Firewall</Key> is a security system that blocks unauthorized
+          network access while allowing safe communication, protecting computers
+          and networks from cyber threats.
         </Note>
       </NoteWrapper>
     </Container>
