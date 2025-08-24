@@ -212,6 +212,14 @@ export default function Home() {
           network access while allowing safe communication, protecting computers
           and networks from cyber threats.
         </Note>
+
+        <Note>
+          <N>34. </N>
+          <Key>Placebo</Key> is a treatment without inherent pharmacological
+          properties, whose effects arise from the patient’s mind, intention,
+          and vibrational resonance, guiding the body’s natural healing
+          processes.
+        </Note>
       </NoteWrapper>
     </Container>
   );
