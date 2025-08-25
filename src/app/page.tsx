@@ -220,6 +220,12 @@ export default function Home() {
           and vibrational resonance, guiding the body’s natural healing
           processes.
         </Note>
+
+        <Note>
+          <N>35. </N>
+          <Key>Ecology </Key> is the scientific study of how living organisms
+          interact with each other and with their physical environment.
+        </Note>
       </NoteWrapper>
     </Container>
   );
