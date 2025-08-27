@@ -223,8 +223,14 @@ export default function Home() {
 
         <Note>
           <N>35. </N>
-          <Key>Ecology </Key> is the scientific study of how living organisms
+          <Key>Ecology</Key> is the scientific study of how living organisms
           interact with each other and with their physical environment.
+        </Note>
+
+        <Note>
+          <N>36. </N>
+          <Key>Aeon</Key> is an immeasurably long period of time, often used to
+          mean eternity or a billion years in science.
         </Note>
       </NoteWrapper>
     </Container>
