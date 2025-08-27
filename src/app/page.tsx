@@ -232,6 +232,14 @@ export default function Home() {
           <Key>Aeon</Key> is an immeasurably long period of time, often used to
           mean eternity or a billion years in science.
         </Note>
+
+        <Note>
+          <N>37. </N>
+          <Key>Biofield</Key> is the energy field that surrounds and flows
+          through living beings, believed to play a role in regulating physical,
+          mental, and emotional well-being by maintaining balance and harmony
+          within the body.
+        </Note>
       </NoteWrapper>
     </Container>
   );
