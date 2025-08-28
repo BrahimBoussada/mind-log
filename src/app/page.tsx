@@ -240,6 +240,13 @@ export default function Home() {
           mental, and emotional well-being by maintaining balance and harmony
           within the body.
         </Note>
+
+        <Note>
+          <N>38. </N>
+          <Key>Pharmacognosy</Key> is the study of medicines derived from
+          natural sources like plants, animals, and minerals, focusing on their
+          identification and therapeutic use.
+        </Note>
       </NoteWrapper>
     </Container>
   );
