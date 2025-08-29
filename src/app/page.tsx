@@ -247,6 +247,13 @@ export default function Home() {
           natural sources like plants, animals, and minerals, focusing on their
           identification and therapeutic use.
         </Note>
+
+        <Note>
+          <N>39. </N>
+          <Key>Emoticon</Key>
+          is a group of keyboard symbols used to show emotions or facial
+          expressions in text, like {":-)"} or {":P"}.
+        </Note>
       </NoteWrapper>
     </Container>
   );
