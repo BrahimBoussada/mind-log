@@ -254,6 +254,13 @@ export default function Home() {
           is a group of keyboard symbols used to show emotions or facial
           expressions in text, like {":-)"} or {":P"}.
         </Note>
+
+        <Note>
+          <N>40. </N>
+          <Key>Emulation</Key> is when a system or program mimics another
+          system’s functions and behavior so software or tasks made for the
+          original can run on it.
+        </Note>
       </NoteWrapper>
     </Container>
   );
