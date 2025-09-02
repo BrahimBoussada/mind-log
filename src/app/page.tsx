@@ -261,6 +261,13 @@ export default function Home() {
           system’s functions and behavior so software or tasks made for the
           original can run on it.
         </Note>
+
+        <Note>
+          <N>41. </N>
+          <Key>Ethernet</Key> is a technology for connecting computers in a
+          local area network (LAN) using cables to transmit data quickly and
+          reliably.
+        </Note>
       </NoteWrapper>
     </Container>
   );
