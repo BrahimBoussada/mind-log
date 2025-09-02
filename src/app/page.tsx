@@ -268,6 +268,14 @@ export default function Home() {
           local area network (LAN) using cables to transmit data quickly and
           reliably.
         </Note>
+
+        <Note>
+          <N>42. </N>
+          <Key>The Scientific Method</Key> is a systematic, evidence-based
+          approach involving observation, hypothesis formulation,
+          experimentation, and analysis to derive objective and reproducible
+          conclusions.
+        </Note>
       </NoteWrapper>
     </Container>
   );
