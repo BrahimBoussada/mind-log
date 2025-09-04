@@ -276,6 +276,13 @@ export default function Home() {
           experimentation, and analysis to derive objective and reproducible
           conclusions.
         </Note>
+
+        <Note>
+          <N>43. </N>
+          <Key>ISP (Internet Service Provider)</Key> is a company that connects
+          users to the internet through services like broadband, fiber,
+          satellite, or mobile data.
+        </Note>
       </NoteWrapper>
     </Container>
   );
