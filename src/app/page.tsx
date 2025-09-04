@@ -283,6 +283,13 @@ export default function Home() {
           users to the internet through services like broadband, fiber,
           satellite, or mobile data.
         </Note>
+
+        <Note>
+          <N>44. </N>
+          <Key>Constellation</Key> is a group of stars forming a recognizable
+          pattern in the sky, used in astronomy for locating celestial objects
+          and historically for navigation and determining direction.
+        </Note>
       </NoteWrapper>
     </Container>
   );
