@@ -290,6 +290,13 @@ export default function Home() {
           pattern in the sky, used in astronomy for locating celestial objects
           and historically for navigation and determining direction.
         </Note>
+
+        <Note>
+          <N>45. </N>
+          <Key>Quality of Service (QoS)</Key> is the management of network
+          traffic to guarantee sufficient bandwidth, low latency, minimal packet
+          loss, and stable performance for critical applications.
+        </Note>
       </NoteWrapper>
     </Container>
   );
