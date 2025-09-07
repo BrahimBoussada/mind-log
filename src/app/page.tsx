@@ -297,6 +297,12 @@ export default function Home() {
           traffic to guarantee sufficient bandwidth, low latency, minimal packet
           loss, and stable performance for critical applications.
         </Note>
+
+        <Note>
+          <N>46. </N>
+          <Key>Perspicacity</Key> is keen mental perception and understanding;
+          the ability to notice subtle details and grasp their significance.
+        </Note>
       </NoteWrapper>
     </Container>
   );
