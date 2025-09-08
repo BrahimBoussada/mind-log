@@ -1,10 +1,13 @@
 import { Container } from "@/components/container";
+import { Intro } from "@/components/intro";
 import { N } from "@/components/n";
 import { Key, Note, NoteWrapper } from "@/components/note";
 
 export default function Home() {
   return (
     <Container>
+      <Intro />
+
       <NoteWrapper>
         <Note>
           <N>1. </N>
@@ -54,26 +57,21 @@ export default function Home() {
           and usage.
         </Note>
         <Note>
-          <N>9. </N>
+          <N>10. </N>
           <Key>Synthesis</Key> is the process of producing a new substance,
           idea, or system by chemically, logically, or creatively combining two
           or more distinct components or elements.
         </Note>
         <Note>
-          <N>10. </N>
+          <N>11. </N>
           <Key>Methodology</Key> is the systematic set of methods, rules, and
           principles used to conduct research or carry out a particular process.
         </Note>
         <Note>
-          <N>11. </N>
+          <N>12. </N>
           <Key>Algorithm</Key> is a defined sequence of logical steps or rules
           designed to perform a specific task or solve a particular problem
           efficiently.
-        </Note>
-        <Note>
-          <N>12. </N>
-          <Key>Prodigy</Key> is a young person who demonstrates exceptional
-          talent or ability in a particular field at an unusually early age.
         </Note>
         <Note>
           <N>13. </N>
@@ -151,13 +149,6 @@ export default function Home() {
           system that organizes data on disks, supports large files and
           permissions, and uses journaling to prevent data corruption.
         </Note>
-        <Note>
-          <N>25. </N>
-          <Key>Lobotomy</Key> is a neurosurgical procedure that severes
-          connections in the prefrontal cortex to treat psychiatric disorders,
-          often causing significant cognitive and personality changes.
-        </Note>
-
         <Note>
           <N>26. </N>
           <Key>Fibonacci Sequence</Key> is a series where each number is the sum
@@ -250,9 +241,8 @@ export default function Home() {
 
         <Note>
           <N>39. </N>
-          <Key>Emoticon</Key>
-          is a group of keyboard symbols used to show emotions or facial
-          expressions in text, like {":-)"} or {":P"}.
+          <Key>Emoticon</Key> is a group of keyboard symbols used to show
+          emotions or facial expressions in text, like {":-)"} or {":P"}.
         </Note>
 
         <Note>
@@ -302,6 +292,30 @@ export default function Home() {
           <N>46. </N>
           <Key>Perspicacity</Key> is keen mental perception and understanding;
           the ability to notice subtle details and grasp their significance.
+        </Note>
+
+        <Note>
+          <N>47. </N>
+          <Key>
+            CAPTCHA (Completely Automated Public Turing test to tell Computers &
+            Humans Apart)
+          </Key>{" "}
+          is an online security test that blocks bots by requiring users to
+          complete challenges that are easy for humans but hard for automated
+          programs.
+        </Note>
+
+        <Note>
+          <N>48. </N>
+          <Key>Prodigy</Key> is a young person who demonstrates exceptional
+          talent or ability in a particular field at an unusually early age.
+        </Note>
+
+        <Note>
+          <N>49. </N>
+          <Key>Lobotomy</Key> is a neurosurgical procedure that severes
+          connections in the prefrontal cortex to treat psychiatric disorders,
+          often causing significant cognitive and personality changes.
         </Note>
       </NoteWrapper>
     </Container>

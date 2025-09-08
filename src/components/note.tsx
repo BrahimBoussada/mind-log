@@ -5,13 +5,11 @@ interface NoteProps {
 }
 
 export const NoteWrapper = ({ children }: NoteProps) => {
-  return <ol className="list-inside text-sm/6 font-mono">{children}</ol>;
+  return <ol className="list-inside text-sm/6   font-mono">{children}</ol>;
 };
 
 export const Note = ({ children }: NoteProps) => {
-  return (
-    <li className="pl-6 -indent-6 mb-2.5 tracking-[-.01em]">{children}</li>
-  );
+  return <li className="pl-6 -indent-6 mb-2.5">{children}</li>;
 };
 
 export const Key = ({ children }: NoteProps) => {
