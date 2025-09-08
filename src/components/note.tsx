@@ -5,16 +5,26 @@ interface NoteProps {
 }
 
 export const NoteWrapper = ({ children }: NoteProps) => {
-  return <ol className="list-inside text-sm/6   font-mono">{children}</ol>;
+  return (
+    <div className="text-sm font-mono flex flex-col gap-3">{children}</div>
+  );
 };
 
 export const Note = ({ children }: NoteProps) => {
-  return <li className="pl-6 -indent-6 mb-2.5">{children}</li>;
+  return <div className="flex gap-1">{children}</div>;
+};
+
+export const N = ({ children }: NoteProps) => {
+  return <span className="font-medium select-none">{children}</span>;
+};
+
+export const Text = ({ children }: NoteProps) => {
+  return <p className="">{children}</p>;
 };
 
 export const Key = ({ children }: NoteProps) => {
   return (
-    <span className=" bg-black/5 px-1.5 py-0.5 rounded font-mono font-semibold">
+    <span className=" bg-black/5 px-1 py-0.5 rounded font-mono font-semibold ">
       {children}
     </span>
   );
