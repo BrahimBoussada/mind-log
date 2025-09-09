@@ -466,6 +466,14 @@ export default function Home() {
             often causing significant cognitive and personality changes.
           </Text>
         </Note>
+
+        <Note>
+          <N>50. </N>
+          <Text>
+            <Key>Latency</Key> is the time delay for data to travel across a
+            network from sender to receiver, measured in milliseconds.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
