@@ -422,7 +422,7 @@ export default function Home() {
         <Note>
           <N>45. </N>
           <Text>
-            <Key>Quality of Service (QoS)</Key> is the management of network
+            <Key>QoS (Quality of Service)</Key> is the management of network
             traffic to guarantee sufficient bandwidth, low latency, minimal
             packet loss, and stable performance for critical applications.
           </Text>
@@ -472,6 +472,15 @@ export default function Home() {
           <Text>
             <Key>Latency</Key> is the time delay for data to travel across a
             network from sender to receiver, measured in milliseconds.
+          </Text>
+        </Note>
+
+        <Note>
+          <N>51. </N>
+          <Text>
+            <Key>IoT (Internet of Things)</Key> is a network of physical devices
+            that collect, send, and act on data in real time over the internet,
+            enabling automated monitoring, analysis, and decision-making.
           </Text>
         </Note>
       </NoteWrapper>
