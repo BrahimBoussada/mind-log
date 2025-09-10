@@ -483,6 +483,15 @@ export default function Home() {
             enabling automated monitoring, analysis, and decision-making.
           </Text>
         </Note>
+
+        <Note>
+          <N>52. </N>
+          <Text>
+            <Key>Metaverse</Key> is a virtual space where people interact via
+            avatars. Coined by Neal Stephenson in Snow Crash (1992), he
+            described it as an immersive 3D digital world parallel to reality.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
