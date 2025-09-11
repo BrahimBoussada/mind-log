@@ -492,6 +492,15 @@ export default function Home() {
             described it as an immersive 3D digital world parallel to reality.
           </Text>
         </Note>
+
+        <Note>
+          <N>53. </N>
+          <Text>
+            <Key>Latency</Key> is the delay between sending a request and
+            receiving a response, measured in milliseconds, and indicates how
+            fast a system or network reacts.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
