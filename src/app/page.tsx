@@ -501,6 +501,15 @@ export default function Home() {
             fast a system or network reacts.
           </Text>
         </Note>
+
+        <Note>
+          <N>54. </N>
+          <Text>
+            <Key>IDE (Integrated Development Environment)</Key> is a software
+            tool that combines a code editor, compiler, and debugger in one
+            place to make writing and testing programs easier.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
