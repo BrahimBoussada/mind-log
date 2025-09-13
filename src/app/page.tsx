@@ -510,6 +510,15 @@ export default function Home() {
             place to make writing and testing programs easier.
           </Text>
         </Note>
+
+        <Note>
+          <N>55. </N>
+          <Text>
+            <Key>Hashing</Key> is a way of turning any input like text or
+            numbers into a fixed-length code. It’s mainly used for fast data
+            searching and secure storage, such as keeping passwords safe.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
