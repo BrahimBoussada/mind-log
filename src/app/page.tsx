@@ -519,6 +519,16 @@ export default function Home() {
             searching and secure storage, such as keeping passwords safe.
           </Text>
         </Note>
+
+        <Note>
+          <N>56. </N>
+          <Text>
+            <Key>Edge Computing</Key> is a computing approach where data is
+            processed close to where it is generated, rather than in a
+            centralized cloud, reducing latency, saving bandwidth, and improving
+            speed.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
