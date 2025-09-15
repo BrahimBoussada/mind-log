@@ -529,6 +529,15 @@ export default function Home() {
             speed.
           </Text>
         </Note>
+
+        <Note>
+          <N>57. </N>
+          <Text>
+            <Key>Encryption</Key> is a cryptographic process that converts data
+            into ciphertext, accessible only to those with the proper decryption
+            key, ensuring confidentiality and integrity.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
