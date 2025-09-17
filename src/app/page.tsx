@@ -538,6 +538,15 @@ export default function Home() {
             key, ensuring confidentiality and integrity.
           </Text>
         </Note>
+
+        <Note>
+          <N>57. </N>
+          <Text>
+            <Key>Refactoring</Key> is the process of modifying existing code to
+            simplify its structure, remove duplication, and improve clarity,
+            while keeping its functionality unchanged.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
