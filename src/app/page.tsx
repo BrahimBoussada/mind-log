@@ -540,11 +540,20 @@ export default function Home() {
         </Note>
 
         <Note>
-          <N>57. </N>
+          <N>58. </N>
           <Text>
             <Key>Refactoring</Key> is the process of modifying existing code to
             simplify its structure, remove duplication, and improve clarity,
             while keeping its functionality unchanged.
+          </Text>
+        </Note>
+
+        <Note>
+          <N>59. </N>
+          <Text>
+            <Key>OLAP (Online Analytical Processing)</Key> is a database
+            technology that lets users analyze large datasets quickly from
+            multiple perspectives, such as time, location, or product.
           </Text>
         </Note>
       </NoteWrapper>
