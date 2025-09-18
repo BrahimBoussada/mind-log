@@ -19,8 +19,8 @@ export default function Home() {
         <Note>
           <N>2. </N>
           <Text>
-            The World Wide Web, HTML, URLs, and HTTP were invented by{" "}
-            <Key>Tim Berners-Lee</Key> at CERN beginning in 1989.
+            <Key>Tim Berners-Lee</Key> invented The World Wide Web, HTML, URLs,
+            and HTTP at CERN beginning in 1989.
           </Text>
         </Note>
 
