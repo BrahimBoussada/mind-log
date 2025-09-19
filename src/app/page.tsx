@@ -556,6 +556,15 @@ export default function Home() {
             multiple perspectives, such as time, location, or product.
           </Text>
         </Note>
+
+        <Note>
+          <N>60. </N>
+          <Text>
+            <Key>Sandboxing</Key> is a cybersecurity technique that confines
+            programs or code to a controlled environment, so any malicious
+            actions stay contained without affecting the host system.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
