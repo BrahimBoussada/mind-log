@@ -565,10 +565,20 @@ export default function Home() {
             actions stay contained without affecting the host system.
           </Text>
         </Note>
+
+        <Note>
+          <N>61. </N>
+          <Text>
+            <Key>Social Graph</Key> is a graph that represents social relations
+            between entities. It is a model or representation of a social
+            network. The social graph has been referred to as "the global
+            mapping of everybody and how they're related".
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
-        [more to come...]
+        [...more to come...]
       </span>
     </Container>
   );
