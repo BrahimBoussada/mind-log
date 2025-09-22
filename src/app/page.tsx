@@ -575,6 +575,16 @@ export default function Home() {
             mapping of everybody and how they're related".
           </Text>
         </Note>
+
+        <Note>
+          <N>62. </N>
+          <Text>
+            <Key>DOM (Document Object Model)</Key> is a structured
+            representation of an HTML page, exposing elements as objects that
+            JavaScript can manipulate to change content, styles, or structure in
+            real time.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
