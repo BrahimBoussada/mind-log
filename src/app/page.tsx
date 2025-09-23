@@ -585,6 +585,16 @@ export default function Home() {
             real time.
           </Text>
         </Note>
+
+        <Note>
+          <N>63. </N>
+          <Text>
+            <Key>NFC (Near Field Communication)</Key>
+            is a wireless technology that lets devices communicate within a few
+            centimeters, mainly used for contactless payments, access cards, and
+            quick phone-to-phone sharing.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
