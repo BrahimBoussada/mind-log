@@ -595,6 +595,16 @@ export default function Home() {
             quick phone-to-phone sharing.
           </Text>
         </Note>
+
+        <Note>
+          <N>64. </N>
+          <Text>
+            <Key>SDK (Software Development Kit)</Key>
+            is a set of tools, libraries, and documentation that helps
+            developers build applications or integrate features with a specific
+            web platform, API, or service.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
