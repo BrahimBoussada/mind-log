@@ -605,6 +605,16 @@ export default function Home() {
             web platform, API, or service.
           </Text>
         </Note>
+
+        <Note>
+          <N>65. </N>
+          <Text>
+            <Key>Tenacious</Key>
+            describes a quality of being persistent, determined, and unwilling
+            to give up, often showing strong resolve or firm grip in pursuing a
+            goal or holding onto something.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
