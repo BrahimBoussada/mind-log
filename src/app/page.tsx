@@ -615,6 +615,16 @@ export default function Home() {
             goal or holding onto something.
           </Text>
         </Note>
+
+        <Note>
+          <N>65. </N>
+          <Text>
+            <Key>Catharsis</Key> is Aristotle’s idea that watching a tragedy
+            allows the audience to safely experience intense emotions, such as
+            fear or pity, which are then released, leaving the audience calmer
+            and more balanced.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
