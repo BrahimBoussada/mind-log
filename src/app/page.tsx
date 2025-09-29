@@ -617,12 +617,22 @@ export default function Home() {
         </Note>
 
         <Note>
-          <N>65. </N>
+          <N>66. </N>
           <Text>
             <Key>Catharsis</Key> is Aristotle’s idea that watching a tragedy
             allows the audience to safely experience intense emotions, such as
             fear or pity, which are then released, leaving the audience calmer
             and more balanced.
+          </Text>
+        </Note>
+
+        <Note>
+          <N>67. </N>
+          <Text>
+            <Key>Base-10</Key> is the number system we use every day, built from
+            ten digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9. With these ten
+            symbols, we can write every number. Other common math systems
+            include base-2, or binary, which uses only the digits 0 and 1.
           </Text>
         </Note>
       </NoteWrapper>
