@@ -635,6 +635,14 @@ export default function Home() {
             include base-2, or binary, which uses only the digits 0 and 1.
           </Text>
         </Note>
+
+        <Note>
+          <N>68. </N>
+          <Text>
+            <Key>isNaN</Key> is a JavaScript function that checks if a value is
+            Not-a-Number, returning true if it isn’t numeric and false if it is.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
