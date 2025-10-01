@@ -589,30 +589,29 @@ export default function Home() {
         <Note>
           <N>63. </N>
           <Text>
-            <Key>NFC (Near Field Communication)</Key>
-            is a wireless technology that lets devices communicate within a few
-            centimeters, mainly used for contactless payments, access cards, and
-            quick phone-to-phone sharing.
+            <Key>NFC (Near Field Communication)</Key> is a wireless technology
+            that lets devices communicate within a few centimeters, mainly used
+            for contactless payments, access cards, and quick phone-to-phone
+            sharing.
           </Text>
         </Note>
 
         <Note>
           <N>64. </N>
           <Text>
-            <Key>SDK (Software Development Kit)</Key>
-            is a set of tools, libraries, and documentation that helps
-            developers build applications or integrate features with a specific
-            web platform, API, or service.
+            <Key>SDK (Software Development Kit)</Key> is a set of tools,
+            libraries, and documentation that helps developers build
+            applications or integrate features with a specific web platform,
+            API, or service.
           </Text>
         </Note>
 
         <Note>
           <N>65. </N>
           <Text>
-            <Key>Tenacious</Key>
-            describes a quality of being persistent, determined, and unwilling
-            to give up, often showing strong resolve or firm grip in pursuing a
-            goal or holding onto something.
+            <Key>Tenacious</Key> describes a quality of being persistent,
+            determined, and unwilling to give up, often showing strong resolve
+            or firm grip in pursuing a goal or holding onto something.
           </Text>
         </Note>
 
@@ -641,6 +640,15 @@ export default function Home() {
           <Text>
             <Key>isNaN</Key> is a JavaScript function that checks if a value is
             Not-a-Number, returning true if it isn’t numeric and false if it is.
+          </Text>
+        </Note>
+
+        <Note>
+          <N>69. </N>
+          <Text>
+            <Key>Medulla</Key> is the brainstem’s base that connects to the
+            spinal cord and controls breathing, heartbeat, and other involuntary
+            functions.
           </Text>
         </Note>
       </NoteWrapper>
