@@ -651,6 +651,15 @@ export default function Home() {
             functions.
           </Text>
         </Note>
+
+        <Note>
+          <N>70. </N>
+          <Text>
+            <Key>Gametes</Key> are reproductive cells (sperm in males, eggs in
+            females) that carry half the normal number of chromosomes. When they
+            join, they form a new cell with a complete set of chromosomes.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
