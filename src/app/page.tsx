@@ -660,6 +660,15 @@ export default function Home() {
             join, they form a new cell with a complete set of chromosomes.
           </Text>
         </Note>
+
+        <Note>
+          <N>71. </N>
+          <Text>
+            <Key>Contusion</Key> is a bruise caused by trauma that damages blood
+            vessels under the skin, leading to pain, swelling, and
+            discoloration.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
