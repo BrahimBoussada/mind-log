@@ -669,6 +669,24 @@ export default function Home() {
             discoloration.
           </Text>
         </Note>
+
+        <Note>
+          <N>72. </N>
+          <Text>
+            <Key>Iota</Key> is the smallest Greek letter and specifically refers
+            to a minuscule, nearly imperceptible quantity, emphasizing how
+            insignificant it is.
+          </Text>
+        </Note>
+
+        <Note>
+          <N>73. </N>
+          <Text>
+            <Key>Prudence</Key> is the ability to govern and discipline oneself
+            by using reason, careful judgment, and foresight to make decisions
+            that avoid unnecessary risks and promote long-term benefits.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
