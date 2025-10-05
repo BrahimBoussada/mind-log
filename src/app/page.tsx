@@ -687,6 +687,14 @@ export default function Home() {
             that avoid unnecessary risks and promote long-term benefits.
           </Text>
         </Note>
+
+        <Note>
+          <N>74. </N>
+          <Text>
+            <Key>Stratagem</Key> is a carefully planned strategy designed to
+            achieve a specific goal, often by outsmarting an opponent.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
