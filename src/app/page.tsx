@@ -695,6 +695,14 @@ export default function Home() {
             achieve a specific goal, often by outsmarting an opponent.
           </Text>
         </Note>
+
+        <Note>
+          <N>74. </N>
+          <Text>
+            <Key>Polymath</Key> is a person who excels in multiple areas of
+            knowledge, such as science, art, and philosophy.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
