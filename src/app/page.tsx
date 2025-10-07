@@ -697,10 +697,20 @@ export default function Home() {
         </Note>
 
         <Note>
-          <N>74. </N>
+          <N>75. </N>
           <Text>
             <Key>Polymath</Key> is a person who excels in multiple areas of
             knowledge, such as science, art, and philosophy.
+          </Text>
+        </Note>
+
+        <Note>
+          <N>76. </N>
+          <Text>
+            <Key>System 7</Key> is Apple’s 1991 Mac OS that introduced true
+            multitasking, virtual memory, system-wide drag-and-drop, and
+            personal file sharing, marking a major upgrade over earlier Mac
+            systems.
           </Text>
         </Note>
       </NoteWrapper>
