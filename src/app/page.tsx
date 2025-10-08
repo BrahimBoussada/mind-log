@@ -713,6 +713,16 @@ export default function Home() {
             systems.
           </Text>
         </Note>
+
+        <Note>
+          <N>77. </N>
+          <Text>
+            <Key>Pager</Key> is a portable electronic device that receives short
+            numeric or text messages via a wireless network, used to alert
+            recipients to important information in medical, business,
+            industrial, and other professional settings.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
