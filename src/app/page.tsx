@@ -723,6 +723,15 @@ export default function Home() {
             industrial, and other professional settings.
           </Text>
         </Note>
+
+        <Note>
+          <N>78. </N>
+          <Text>
+            <Key>Osmosis</Key> is the movement of water molecules through a
+            semipermeable membrane from a dilute solution to a concentrated one,
+            helping cells regulate water balance.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
