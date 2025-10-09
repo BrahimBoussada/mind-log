@@ -732,6 +732,15 @@ export default function Home() {
             helping cells regulate water balance.
           </Text>
         </Note>
+
+        <Note>
+          <N>79. </N>
+          <Text>
+            <Key>Alchemical</Key> refers to the study and practice of alchemy, a
+            discipline that combines chemistry, philosophy, and mysticism to
+            transform substances and explore their hidden properties.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
