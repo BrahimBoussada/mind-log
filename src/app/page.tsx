@@ -741,6 +741,15 @@ export default function Home() {
             transform substances and explore their hidden properties.
           </Text>
         </Note>
+
+        <Note>
+          <N>80. </N>
+          <Text>
+            <Key>Tabnabbing</Key> is a cyberattack where a fake webpage replaces
+            an inactive browser tab, tricking users into entering their login
+            details for sites like email or banking.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
