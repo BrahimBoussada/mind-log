@@ -750,6 +750,16 @@ export default function Home() {
             details for sites like email or banking.
           </Text>
         </Note>
+
+        <Note>
+          <N>81. </N>
+          <Text>
+            <Key>Northern Lights</Key> is a natural light show that appears in
+            the night sky near the North Pole. It happens when energy from the
+            Sun hits Earth’s atmosphere, making the sky glow and ripple in
+            colors like green, pink, and purple.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
