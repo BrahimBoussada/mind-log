@@ -760,6 +760,15 @@ export default function Home() {
             colors like green, pink, and purple.
           </Text>
         </Note>
+
+        <Note>
+          <N>81. </N>
+          <Text>
+            <Key>Rootkit</Key> is a type of malicious software (malware)
+            designed to hide its presence and maintain privileged (root-level)
+            access to a computer system without being detected.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
