@@ -769,6 +769,16 @@ export default function Home() {
             access to a computer system without being detected.
           </Text>
         </Note>
+
+        <Note>
+          <N>82. </N>
+          <Text>
+            <Key>UDP (User Datagram Protocol)</Key> is a fast, connectionless
+            protocol that sends data without guaranteeing delivery or order,
+            making it ideal for real-time applications like streaming and
+            gaming.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
