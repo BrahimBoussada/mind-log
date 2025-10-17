@@ -773,10 +773,18 @@ export default function Home() {
         <Note>
           <N>82. </N>
           <Text>
-            <Key>UDP (User Datagram Protocol)</Key> is a fast, connectionless
-            protocol that sends data without guaranteeing delivery or order,
-            making it ideal for real-time applications like streaming and
-            gaming.
+            <Key>Stenographer</Key> is a person trained to record speech quickly
+            and accurately using shorthand or a stenotype machine, commonly in
+            courtrooms, meetings, or live events.{" "}
+          </Text>
+        </Note>
+
+        <Note>
+          <N>83. </N>
+          <Text>
+            <Key>ERD (Entity-Relationship Diagram)</Key> is a visual
+            representation of a database’s entities, their attributes, and the
+            relationships between them.
           </Text>
         </Note>
       </NoteWrapper>
