@@ -762,7 +762,7 @@ export default function Home() {
         </Note>
 
         <Note>
-          <N>81. </N>
+          <N>82. </N>
           <Text>
             <Key>Rootkit</Key> is a type of malicious software (malware)
             designed to hide its presence and maintain privileged (root-level)
@@ -771,20 +771,31 @@ export default function Home() {
         </Note>
 
         <Note>
-          <N>82. </N>
+          <N>83. </N>
           <Text>
             <Key>Stenographer</Key> is a person trained to record speech quickly
             and accurately using shorthand or a stenotype machine, commonly in
-            courtrooms, meetings, or live events.{" "}
+            courtrooms, meetings, or live events.
           </Text>
         </Note>
 
         <Note>
-          <N>83. </N>
+          <N>84. </N>
           <Text>
             <Key>ERD (Entity-Relationship Diagram)</Key> is a visual
             representation of a database’s entities, their attributes, and the
             relationships between them.
+          </Text>
+        </Note>
+
+        <Note>
+          <N>85. </N>
+          <Text>
+            <Key>Bradycardia</Key> is a slow heart rate (below 60 beats per
+            minute). It can be normal in athletes or during rest but may also
+            result from heart disease or certain medications. Severe cases can
+            cause dizziness, fatigue, or fainting and may require treatment such
+            as a pacemaker.
           </Text>
         </Note>
       </NoteWrapper>
