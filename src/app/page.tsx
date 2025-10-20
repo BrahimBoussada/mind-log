@@ -798,6 +798,24 @@ export default function Home() {
             as a pacemaker.
           </Text>
         </Note>
+
+        <Note>
+          <N>86. </N>
+          <Text>
+            <Key>Snap Store</Key> is Canonical’s Linux app store, popular with
+            Ubuntu users for easy installation and automatic updates of Snap
+            apps.
+          </Text>
+        </Note>
+
+        <Note>
+          <N>87. </N>
+          <Text>
+            <Key>Flathub</Key> is a community-driven Linux app store for Flatpak
+            apps, favored by non-Ubuntu users for its openness and broad
+            compatibility.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
