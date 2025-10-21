@@ -816,6 +816,15 @@ export default function Home() {
             compatibility.
           </Text>
         </Note>
+
+        <Note>
+          <N>88. </N>
+          <Text>
+            <Key>Citadel</Key> is the strongest and most heavily fortified part
+            of a city, often built on high ground, designed to defend against
+            attacks and protect the population within.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
