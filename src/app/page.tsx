@@ -825,6 +825,16 @@ export default function Home() {
             attacks and protect the population within.
           </Text>
         </Note>
+
+        <Note>
+          <N>89. </N>
+          <Text>
+            <Key>DHCP (Dynamic Host Configuration Protocol) </Key>
+            is a network protocol that automatically assigns IP addresses,
+            subnet masks, gateways, and DNS settings to devices, simplifying
+            network configuration and management.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
