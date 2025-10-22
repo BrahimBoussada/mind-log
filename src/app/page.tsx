@@ -829,10 +829,21 @@ export default function Home() {
         <Note>
           <N>89. </N>
           <Text>
-            <Key>DHCP (Dynamic Host Configuration Protocol) </Key>
-            is a network protocol that automatically assigns IP addresses,
-            subnet masks, gateways, and DNS settings to devices, simplifying
-            network configuration and management.
+            <Key>DHCP (Dynamic Host Configuration Protocol)</Key> is a network
+            protocol that automatically assigns IP addresses, subnet masks,
+            gateways, and DNS settings to devices, simplifying network
+            configuration and management.
+          </Text>
+        </Note>
+
+        <Note>
+          <N>90. </N>
+          <Text>
+            <Key>The Enigma Machine</Key> was an encryption device used by
+            Germany during World War II to send secret military messages. It
+            used a system of rotating wheels and electrical circuits to scramble
+            text into complex codes that were extremely hard to break without
+            knowing the machine’s exact settings.
           </Text>
         </Note>
       </NoteWrapper>
