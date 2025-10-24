@@ -857,6 +857,17 @@ export default function Home() {
             smart cities, and autonomous vehicles.
           </Text>
         </Note>
+
+        <Note>
+          <N>92. </N>
+          <Text>
+            <Key>Invisible Watermarking</Key> is the method of embedding
+            information directly into digital content in a way that is
+            imperceptible to humans, yet detectable by algorithms. It ensures
+            copyright protection, authentication, or tracking of the content
+            without affecting its visual or auditory quality.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
