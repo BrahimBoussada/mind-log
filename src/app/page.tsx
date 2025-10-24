@@ -846,6 +846,17 @@ export default function Home() {
             knowing the machine’s exact settings.
           </Text>
         </Note>
+
+        <Note>
+          <N>91. </N>
+          <Text>
+            <Key>5G</Key> is the fifth-generation mobile network that uses
+            high-frequency radio waves, massive MIMO antennas, and beamforming
+            to deliver speeds up to 10 Gbps, latency as low as 1 ms, and support
+            for millions of connected devices, enabling applications like IoT,
+            smart cities, and autonomous vehicles.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
