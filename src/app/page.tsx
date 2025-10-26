@@ -868,6 +868,16 @@ export default function Home() {
             without affecting its visual or auditory quality.
           </Text>
         </Note>
+
+        <Note>
+          <N>93. </N>
+          <Text>
+            <Key>Stem Cell</Key> is a type of cell capable of both self-renewal
+            and transforming into specialized cell types, such as blood, nerve,
+            or muscle cells, allowing it to replace damaged cells and support
+            tissue growth.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
