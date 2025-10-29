@@ -878,6 +878,16 @@ export default function Home() {
             tissue growth.
           </Text>
         </Note>
+
+        <Note>
+          <N>94. </N>
+          <Text>
+            <Key>VCS (Version Control System)</Key> is a tool that tracks and
+            manages changes to files, typically code, over time. It allows
+            multiple people to collaborate, keeps a history of edits, and makes
+            it easy to revert to earlier versions if needed.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
