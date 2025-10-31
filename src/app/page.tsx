@@ -888,6 +888,16 @@ export default function Home() {
             it easy to revert to earlier versions if needed.
           </Text>
         </Note>
+
+        <Note>
+          <N>95. </N>
+          <Text>
+            <Key>tRPC</Key> is a TypeScript framework that lets the frontend
+            fetch data and call backend functions directly, with automatic type
+            safety ensuring inputs and outputs are always consistent between
+            client and server.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
