@@ -890,12 +890,12 @@ export default function Home() {
         </Note>
 
         <Note>
-          <N>95. </N>
+          <N>96. </N>
           <Text>
-            <Key>tRPC</Key> is a TypeScript framework that lets the frontend
-            fetch data and call backend functions directly, with automatic type
-            safety ensuring inputs and outputs are always consistent between
-            client and server.
+            <Key>DARPA (the Defense Advanced Research Projects Agency)</Key> is
+            a U.S. Department of Defense agency that develops advanced
+            technologies for national security. Founded in 1958, it has driven
+            innovations like the internet, GPS, and stealth technology.
           </Text>
         </Note>
       </NoteWrapper>
