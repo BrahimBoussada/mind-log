@@ -908,6 +908,16 @@ export default function Home() {
             visiting the site.
           </Text>
         </Note>
+
+        <Note>
+          <N>97. </N>
+          <Text>
+            <Key>Anthesis</Key> is the stage when a flower fully opens, exposing
+            its reproductive parts (stamens and pistils) to enable pollination
+            and seed production; figuratively, it describes when an idea,
+            movement, or conflict blooms into full, active form.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
