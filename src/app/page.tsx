@@ -890,12 +890,22 @@ export default function Home() {
         </Note>
 
         <Note>
-          <N>96. </N>
+          <N>95. </N>
           <Text>
             <Key>DARPA (the Defense Advanced Research Projects Agency)</Key> is
             a U.S. Department of Defense agency that develops advanced
             technologies for national security. Founded in 1958, it has driven
             innovations like the internet, GPS, and stealth technology.
+          </Text>
+        </Note>
+
+        <Note>
+          <N>96. </N>
+          <Text>
+            <Key>RSS (Really Simple Syndication)</Key> is is a web feed that
+            uses XML to share the latest updates such as news, blog posts, or
+            media from a website so users can read them in one place without
+            visiting the site.
           </Text>
         </Note>
       </NoteWrapper>
