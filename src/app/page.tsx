@@ -918,6 +918,16 @@ export default function Home() {
             movement, or conflict blooms into full, active form.
           </Text>
         </Note>
+
+        <Note>
+          <N>98. </N>
+          <Text>
+            <Key>Tesla coil</Key> is an electrical device invented by Nikola
+            Tesla in 1891 that produces high-voltage, low-current,
+            high-frequency alternating electricity. It’s famous for creating
+            spectacular electrical arcs and sparks.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
