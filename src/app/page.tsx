@@ -948,6 +948,17 @@ export default function Home() {
             universe.
           </Text>
         </Note>
+
+        <Note>
+          <N>100. </N>
+          <Text>
+            <Key>AT&T</Key> is a major U.S. telecommunications company providing
+            phone, internet, and TV services. It gained notoriety for its role
+            in cooperating with the NSA, helping the agency conduct surveillance
+            on communications, a connection highlighted by whistleblowers like
+            Mark Klein.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
