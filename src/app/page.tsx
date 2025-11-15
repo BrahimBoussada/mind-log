@@ -950,7 +950,7 @@ export default function Home() {
         </Note>
 
         <Note>
-          <N>100. </N>
+          <N>101. </N>
           <Text>
             <Key>AT&T</Key> is a major U.S. telecommunications company providing
             phone, internet, and TV services. It gained notoriety for its role
