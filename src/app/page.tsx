@@ -959,6 +959,16 @@ export default function Home() {
             Mark Klein.
           </Text>
         </Note>
+
+        <Note>
+          <N>102. </N>
+          <Text>
+            <Key>Tachograph</Key> is a device installed in commercial vehicles
+            that automatically records driving information such as speed,
+            distance traveled, and driver activity to help ensure compliance
+            with road safety and labor regulations.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
