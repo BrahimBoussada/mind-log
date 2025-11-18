@@ -969,6 +969,16 @@ export default function Home() {
             with road safety and labor regulations.
           </Text>
         </Note>
+
+        <Note>
+          <N>103. </N>
+          <Text>
+            <Key>XSS (Cross-Site Scripting)</Key> is a web security flaw where
+            attackers inject malicious scripts into web pages, letting them
+            steal data, hijack accounts, or manipulate content for users who
+            view the page.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
