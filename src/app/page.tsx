@@ -979,6 +979,26 @@ export default function Home() {
             view the page.
           </Text>
         </Note>
+
+        <Note>
+          <N>104. </N>
+          <Text>
+            <Key>Sonic Boom</Key> is a loud explosive sound created when an
+            object moves faster than the speed of sound in air. It happens
+            because the object compresses air molecules, forming shock waves
+            that reach the ground as a sudden, thunder-like noise.
+          </Text>
+        </Note>
+
+        <Note>
+          <N>105. </N>
+          <Text>
+            <Key>Zero-Day Exploit</Key> is a security flaw in software that is
+            unknown to its developers, leaving no fix or patch available.
+            Attackers can exploit it immediately, potentially causing serious
+            damage, until the flaw is discovered and corrected.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
