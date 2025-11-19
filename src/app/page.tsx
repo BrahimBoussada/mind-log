@@ -999,6 +999,16 @@ export default function Home() {
             damage, until the flaw is discovered and corrected.
           </Text>
         </Note>
+
+        <Note>
+          <N>106. </N>
+          <Text>
+            <Key>WannaCry</Key> was a ransomware attack in 2017 that spread
+            automatically across vulnerable Windows computers. It encrypted
+            victims’ files and demanded payment, causing major disruptions to
+            hospitals, companies, and governments worldwide.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
