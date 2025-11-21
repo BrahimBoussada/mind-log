@@ -1009,6 +1009,16 @@ export default function Home() {
             hospitals, companies, and governments worldwide.
           </Text>
         </Note>
+
+        <Note>
+          <N>107. </N>
+          <Text>
+            <Key>Radar (Radio Detection and Ranging)</Key> is a technology that
+            sends out radio waves which bounce off objects and return to the
+            receiver. By analyzing these signals, radar can determine an
+            object’s distance, speed, and direction.
+          </Text>
+        </Note>
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
