@@ -1019,6 +1019,18 @@ export default function Home() {
             object’s distance, speed, and direction.
           </Text>
         </Note>
+
+        <Note>
+          <N>108. </N>
+          <Text>
+            <Key>Fiduciary</Key> is a person or organization legally and
+            ethically obligated to act in the best interests of another party,
+            managing their money, property, or decisions with loyalty, care, and
+            honesty.
+          </Text>
+        </Note>
+
+        {/* --- end --- */}
       </NoteWrapper>
 
       <span className="font-mono text-xs text-center my-8">
