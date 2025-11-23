@@ -1030,6 +1030,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>109. </N>
+          <Text>
+            <Key>Libreboot</Key> is an open-source replacement for BIOS/UEFI
+            designed to prevent backdoors and Intel/AMD proprietary firmware,
+            providing a transparent, secure, and privacy-focused boot system for
+            supported computers.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
