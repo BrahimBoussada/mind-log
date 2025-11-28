@@ -1050,6 +1050,15 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>111. </N>
+          <Text>
+            <Key>Exsanguination</Key> is the medical term for losing a critical
+            amount of blood. It refers to severe blood loss that can lead to
+            shock and, if not treated quickly, death.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
