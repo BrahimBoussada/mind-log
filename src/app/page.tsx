@@ -1040,6 +1040,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>110. </N>
+          <Text>
+            <Key>Apparatus</Key> is a set of tools or equipment for a specific
+            task, often in scientific or technical contexts, and can also be
+            used metaphorically to describe a system or organization where
+            people or processes work together.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
