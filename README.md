@@ -7,6 +7,8 @@ _Mind-Log_ is a personal space for writing down anything that sparks my interest
 ## Run Locally
 
 ```bash
+git clone https://github.com/BrahimBoussada/mind-log.git
+cd mind-log
 npm install
 npm run dev
 ```
