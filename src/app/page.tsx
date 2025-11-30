@@ -1059,6 +1059,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>112. </N>
+          <Text>
+            <Key>Cryptography</Key> is the study and practice of securing
+            information by converting it into a form that only authorized
+            parties can understand. It uses mathematical techniques to protect
+            data in digital communication.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
