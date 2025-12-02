@@ -1069,6 +1069,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>113. </N>
+          <Text>
+            <Key>WSL (Windows Subsystem for Linux)</Key> is a Windows feature
+            that allows users to run a full Linux command-line environment with
+            distributions like Ubuntu without requiring a virtual machine or
+            dual-boot.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
