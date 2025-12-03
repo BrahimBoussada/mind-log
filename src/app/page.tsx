@@ -1079,6 +1079,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>114.</N>
+          <Text>
+            <Key>GPG (GNU Privacy Guard)</Key> is a free tool used to encrypt
+            and decrypt data, mainly emails and files. It protects information
+            so only the intended person can read it. It’s often used for secure
+            communication.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
