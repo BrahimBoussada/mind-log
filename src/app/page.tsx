@@ -1089,6 +1089,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>115.</N>
+          <Text>
+            <Key>Plaintiffs</Key> are the people or groups who bring a lawsuit
+            to court because they believe someone wronged them and they want a
+            legal remedy. The word comes from Old French <i>plaintif</i>,
+            meaning “one who complains” or “makes a legal complaint.”
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
