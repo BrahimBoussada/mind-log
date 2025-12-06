@@ -1099,6 +1099,15 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>116.</N>
+          <Text>
+            <Key>XOR (exclusive OR)</Key> is a fundamental binary operation in
+            Boolean algebra that yields an output of 1 when its two input bits
+            differ, and an output of 0 when they are identical.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
