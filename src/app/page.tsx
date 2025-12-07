@@ -1108,6 +1108,17 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>117.</N>
+          <Text>
+            <Key>VPC (Virtual Private Cloud)</Key> is a secure, isolated section
+            of a cloud network where you can launch and manage resources. It
+            lets you control IP ranges, subnets, and security settings,
+            providing a private, cloud-based infrastructure with the flexibility
+            of the cloud.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
