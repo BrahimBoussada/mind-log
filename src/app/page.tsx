@@ -1119,6 +1119,15 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>118.</N>
+          <Text>
+            <Key>Pfp</Key> stands for “profile picture,” the small icon or photo
+            that appears next to a user’s name on social platforms to visually
+            identify their account.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
