@@ -1128,6 +1128,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>119.</N>
+          <Text>
+            <Key>The Vigenère Cipher</Key> is an encryption technique that
+            shifts each letter of a message by an amount determined by a
+            repeating keyword; each keyword letter sets how many positions the
+            corresponding plaintext letter is shifted in the alphabet.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
