@@ -1148,6 +1148,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>121.</N>
+          <Text>
+            <Key>Comet</Key> is a small icy object that orbits the Sun and
+            releases gas and dust when it gets close, forming a glowing coma and
+            often a long tail. Comets come from the outer solar system and are
+            leftovers from its early formation.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
