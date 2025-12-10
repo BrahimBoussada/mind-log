@@ -1138,6 +1138,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>120.</N>
+          <Text>
+            <Key>Amalgamation</Key> is the process of combining two or more
+            things—such as ideas, organizations, or materials—into a single,
+            unified whole. It emphasizes blending distinct elements to create
+            something new and cohesive.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
