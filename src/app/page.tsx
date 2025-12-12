@@ -1158,6 +1158,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>122.</N>
+          <Text>
+            <Key>Amygdala</Key> is a small, almond-shaped part of the brain that
+            helps process emotions, especially fear and stress. It detects
+            threats, forms emotional memories, and triggers automatic
+            fight-or-flight responses.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
