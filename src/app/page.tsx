@@ -1168,6 +1168,15 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>122.</N>
+          <Text>
+            <Key>Amnesic</Key> is the adjective of amnesia, describing a person,
+            effect, state, or system characterized by memory loss, forgetting,
+            or intentional non-retention of information.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
