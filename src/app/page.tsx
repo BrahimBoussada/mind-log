@@ -1169,11 +1169,31 @@ export default function Home() {
         </Note>
 
         <Note>
-          <N>122.</N>
+          <N>123.</N>
           <Text>
             <Key>Amnesic</Key> is the adjective of amnesia, describing a person,
             effect, state, or system characterized by memory loss, forgetting,
             or intentional non-retention of information.
+          </Text>
+        </Note>
+
+        <Note>
+          <N>124.</N>
+          <Text>
+            <Key>Melancholia</Key> is a profound state of sadness marked by deep
+            emotional pain, loss of pleasure, and a sense of despair or
+            emptiness.It often includes withdrawal, slowed thought or movement,
+            and a persistent feeling of grief.
+          </Text>
+        </Note>
+
+        <Note>
+          <N>125.</N>
+          <Text>
+            <Key>EMP (Electromagnetic Pulse)</Key> is a short-duration burst of
+            electromagnetic energy that can disrupt, damage, or disable
+            electronic systems by inducing high voltages and currents in
+            electrical circuits.
           </Text>
         </Note>
 
