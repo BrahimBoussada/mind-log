@@ -1197,6 +1197,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>126.</N>
+          <Text>
+            <Key>Gnutella</Key> is an early decentralized peer-to-peer (P2P)
+            file-sharing protocol, introduced in 2000, that lets computers
+            search for and exchange files by forwarding queries across a network
+            of equal peers rather than using a central index or server.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
