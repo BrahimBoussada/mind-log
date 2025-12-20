@@ -1207,6 +1207,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>127.</N>
+          <Text>
+            <Key>Epinephrine</Key> is a hormone released by the adrenal glands
+            that prepares the body for rapid action during stress. It increases
+            heart rate, blood pressure, and blood sugar levels, helping the body
+            respond quickly in emergency situations.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
