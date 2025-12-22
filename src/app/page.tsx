@@ -1217,6 +1217,19 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>128.</N>
+          <Text>
+            <Key>
+              WHATWG (Web Hypertext Application Technology Working Group)
+            </Key>
+            is a community-driven organization that develops and maintains core
+            web standards such as HTML and the DOM. It uses a living standard
+            model, meaning specifications are updated continuously to reflect
+            real-world browser implementation and interoperability.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
