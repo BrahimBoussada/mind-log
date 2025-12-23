@@ -1230,6 +1230,15 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>129.</N>
+          <Text>
+            <Key>Kubernetes</Key> is an open-source platform that automates the
+            deployment, scaling, and management of containerized applications,
+            ensuring they run reliably across clusters of machines.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
