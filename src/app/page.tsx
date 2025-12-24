@@ -1239,6 +1239,18 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>130.</N>
+          <Text>
+            <Key>DRM (Digital Rights Management)</Key> refers to a set of
+            technologies designed to protect digital content from unauthorized
+            use. It allows creators and distributors to control how materials
+            such as audio files, documents, and software are accessed, for
+            example preventing downloading, restricting sharing, or allowing
+            viewing only, so that content remains secure and used as intended.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
