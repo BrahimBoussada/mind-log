@@ -1251,6 +1251,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>131.</N>
+          <Text>
+            <Key>Carcinogenic</Key> describes any substance or exposure that can
+            cause cancer by damaging cells or disrupting normal cell growth,
+            such as certain chemicals, radiation, or biological agents; for
+            example, tobacco smoke is considered carcinogenic.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
