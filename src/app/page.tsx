@@ -1261,6 +1261,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>132.</N>
+          <Text>
+            <Key>Syslog</Key> is a standard protocol used to collect, store, and
+            transmit log messages from devices, servers, and applications,
+            helping administrators monitor system activity, troubleshoot issues,
+            and maintain security.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
