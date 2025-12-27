@@ -1271,6 +1271,17 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>133.</N>
+          <Text>
+            <Key>404</Key> is an HTTP status code meaning “Not Found.” It
+            indicates the server could not find the requested resource, usually
+            because the URL is incorrect or the page has been removed. This code
+            shows that the problem is with the client’s request rather than the
+            server.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
