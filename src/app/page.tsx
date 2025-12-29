@@ -1282,6 +1282,18 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>134.</N>
+          <Text>
+            <Key>Bibata</Key> is an open-source cursor theme library designed
+            and developed by Abdulkaiz Khatri, known for its modern minimalist
+            design, clean geometry, and high visual clarity. Bibata is widely
+            used on Linux desktop environments and comes preinstalled in systems
+            like Linux Mint and Manjaro. People like it because it is clear,
+            precise, and easy to see.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
