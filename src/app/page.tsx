@@ -1294,6 +1294,18 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>135.</N>
+          <Text>
+            <Key>Gregorian Calendar</Key> is a solar calendar of 365 days with
+            periodic leap years, and its month names originate from ancient
+            Roman pagan traditions, often honoring multiple deities, such as
+            January, named after Janus. In contrast, Islam follows the Hijri
+            calendar, a lunar system grounded in monotheism and Islamic
+            religious tradition.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
