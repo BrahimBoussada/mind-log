@@ -1306,6 +1306,17 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>136.</N>
+          <Text>
+            <Key>Botnet</Key> is a network of computers or devices infected with
+            malware and secretly controlled by a hacker, usually without the
+            owners’ knowledge. These compromised devices work together to
+            perform malicious tasks such as cyberattacks, sending spam, or
+            spreading malware.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
