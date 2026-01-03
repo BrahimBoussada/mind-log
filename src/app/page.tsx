@@ -1317,6 +1317,17 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>137.</N>
+          <Text>
+            <Key>Feral</Key> describes an animal, plant, or sometimes a person
+            that was once domesticated or civilized but has returned to a wild,
+            untamed state. It often implies living independently of human
+            control, surviving by natural instincts, and behaving as wildlife
+            rather than as something trained or managed.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
