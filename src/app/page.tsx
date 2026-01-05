@@ -1328,6 +1328,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>138.</N>
+          <Text>
+            <Key>Hegemony</Key> is the dominance of one group, state, or class
+            over others, maintained not only through coercive power but also
+            through the cultivation of consent by shaping norms, values, and
+            institutions so that this dominance appears natural or legitimate.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
