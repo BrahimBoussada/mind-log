@@ -1338,6 +1338,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>139.</N>
+          <Text>
+            <Key>Double Entendre</Key> is a word or phrase that carries two
+            meanings at the same time. One meaning is clear and straightforward,
+            while the other is implicit and often carries ironic or suggestive
+            connotations.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
