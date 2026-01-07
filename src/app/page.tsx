@@ -1348,6 +1348,17 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>140.</N>
+          <Text>
+            <Key>Keylogger</Key> is a type of software or hardware designed to
+            record all keystrokes on a device without the user’s knowledge. It
+            can capture sensitive information such as passwords, messages, and
+            other personal data. Due to its covert nature, keyloggers are
+            considered a significant cybersecurity threat.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
