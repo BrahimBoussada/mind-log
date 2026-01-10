@@ -1359,6 +1359,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>141.</N>
+          <Text>
+            <Key>Honeypot</Key> is a cybersecurity decoy that mimics a real
+            system to attract attackers. It allows security teams to observe
+            malicious activity and learn attack methods without risking actual
+            data or systems.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
