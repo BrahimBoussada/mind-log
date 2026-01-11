@@ -1369,6 +1369,17 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>142.</N>
+          <Text>
+            <Key>Conundrum</Key> is a challenging and often complex problem or
+            question for which a clear or immediate solution is not apparent. It
+            typically involves conflicting factors or uncertainties that require
+            thoughtful analysis, logical reasoning, and sometimes creative
+            thinking to reach a resolution.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
