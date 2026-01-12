@@ -1380,6 +1380,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>142.</N>
+          <Text>
+            <Key>Hindbrain</Key> is the lower part of the brain that connects to
+            the spinal cord and controls vital automatic functions. It includes
+            the medulla, pons, and cerebellum, which help regulate breathing,
+            heart rate, balance, posture, and coordination of movement.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
