@@ -1381,7 +1381,7 @@ export default function Home() {
         </Note>
 
         <Note>
-          <N>142.</N>
+          <N>143.</N>
           <Text>
             <Key>Hindbrain</Key> is the lower part of the brain that connects to
             the spinal cord and controls vital automatic functions. It includes
