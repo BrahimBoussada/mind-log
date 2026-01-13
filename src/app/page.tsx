@@ -1390,6 +1390,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>144.</N>
+          <Text>
+            <Key>Oligarchy</Key> is a form of government where power is held by
+            a small group of people, usually wealthy families or elites, who
+            make decisions mainly to benefit themselves rather than the general
+            public.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
