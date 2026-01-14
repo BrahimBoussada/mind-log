@@ -1400,6 +1400,18 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>145.</N>
+          <Text>
+            <Key>Video Encoder</Key> is a system or software that converts raw,
+            uncompressed video into a compressed digital format using
+            standardized algorithms like H.264 or H.265. It reduces file size by
+            removing redundant or unnecessary visual information while
+            maintaining acceptable quality, allowing for efficient storage,
+            transmission, and streaming of video content.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
