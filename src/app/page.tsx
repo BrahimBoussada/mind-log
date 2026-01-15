@@ -1412,6 +1412,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>146.</N>
+          <Text>
+            <Key>Adware</Key> is software that automatically displays
+            advertisements on a user's device to generate money, often installed
+            without clear consent (usually bundled with free programs), and can
+            slow the system, track browsing habits, and raise privacy concerns.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
