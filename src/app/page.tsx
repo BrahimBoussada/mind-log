@@ -1422,6 +1422,17 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>147.</N>
+          <Text>
+            <Key>PCB (Printed Circuit Board)</Key> is a flat, typically green,
+            laminated board used to mechanically support and electrically
+            interconnect electronic components through patterned copper traces,
+            providing a stable and reliable platform for electronic circuit
+            operation.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
