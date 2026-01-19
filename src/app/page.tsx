@@ -1433,6 +1433,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>148.</N>
+          <Text>
+            <Key>Cyber Hygiene</Key> refers to the routine practices and
+            behaviors individuals and organizations follow to maintain the
+            security, health, and proper functioning of their information
+            systems and digital environments.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
