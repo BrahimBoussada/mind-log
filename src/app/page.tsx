@@ -1443,6 +1443,17 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>149.</N>
+          <Text>
+            <Key>Fog Computing</Key> is a distributed computing approach where
+            data is processed on nearby devices such as gateways, routers, or
+            local servers rather than in the cloud, enabling real-time
+            responses, for example, smart cars that analyze sensor data
+            instantly to control driving functions.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
