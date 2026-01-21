@@ -1464,6 +1464,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>151.</N>
+          <Text>
+            <Key>Datagram</Key> is a discrete unit of data sent across a network
+            independently of other packets. It includes the information needed
+            to reach its destination and is transmitted without first setting up
+            a connection or ensuring reliable delivery.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
