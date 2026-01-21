@@ -1454,6 +1454,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>150.</N>
+          <Text>
+            <Key>End-to-end encryption (E2EE)</Key> is a security method where
+            data is encrypted on the sender’s device and remains encrypted both
+            in transit and on servers, so that only the intended recipient’s
+            device, which holds the decryption key, can read the data.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
