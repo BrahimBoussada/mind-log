@@ -1484,6 +1484,17 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>153.</N>
+          <Text>
+            <Key>Bit</Key> is the smallest unit of data in a computer and
+            represents a single 0 or 1, indicating an off or on state.{" "}
+            <Key>Byte</Key> is a collection of 8 bits that together can
+            represent 256 different values, commonly used to store characters
+            such as letters, numbers, and symbols.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
