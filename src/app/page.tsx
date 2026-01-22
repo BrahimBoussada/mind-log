@@ -1474,6 +1474,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>152.</N>
+          <Text>
+            <Key>NIC (Network Interface Card)</Key> is a hardware component that
+            enables a computer to connect to a network and exchange data with
+            other computers, servers, and network equipment such as switches and
+            routers.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
