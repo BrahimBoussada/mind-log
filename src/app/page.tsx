@@ -1495,6 +1495,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>154.</N>
+          <Text>
+            <Key>Deprecated</Key> means that something (feature, method, or
+            term) is still available but no longer recommended for use. It
+            usually signals that it may be removed or replaced in the future, so
+            people are encouraged to switch to a newer or better alternative.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
