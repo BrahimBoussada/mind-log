@@ -1505,6 +1505,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>155.</N>
+          <Text>
+            <Key>IDA Pro</Key> is a powerful reverse-engineering tool used to
+            analyze compiled software. It converts executable machine code into
+            readable assembly language, helping security researchers, malware
+            analysts, and developers understand how programs work internally.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
