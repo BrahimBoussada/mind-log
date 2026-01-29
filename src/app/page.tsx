@@ -1525,6 +1525,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>156.</N>
+          <Text>
+            <Key>eSIM (embedded SIM)</Key> is a small, programmable SIM card
+            built directly into a phone or device. Unlike a traditional SIM
+            card, it doesn’t need to be physically inserted or swapped, carrier
+            information can be downloaded and activated digitally.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
