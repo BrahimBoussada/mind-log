@@ -1518,8 +1518,8 @@ export default function Home() {
         <Note>
           <N>156.</N>
           <Text>
-            <Key>MEI (International Mobile Equipment Identity)</Key> is a unique
-            15-digit number used to identify a mobile phone on cellular
+            <Key>IMEI (International Mobile Equipment Identity)</Key> is a
+            unique 15-digit number used to identify a mobile phone on cellular
             networks. It helps network providers recognize devices, block stolen
             phones, and manage network security.
           </Text>
