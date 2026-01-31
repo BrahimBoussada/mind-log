@@ -1535,6 +1535,17 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>157.</N>
+          <Text>
+            <Key>Psyop (short for psychological operation)</Key> is a strategic
+            effort usually carried out by governments, militaries, or organized
+            groups, to influence people’s beliefs, emotions, or behavior through
+            targeted messaging, propaganda, or misinformation, often to gain an
+            advantage without using direct force.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
