@@ -1546,6 +1546,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>157.</N>
+          <Text>
+            <Key>Microtransaction</Key> is a monetary purchase made within a
+            digital product, such as a video game or mobile application, to
+            obtain virtual goods or services. These purchases function as a
+            mechanism for ongoing revenue extraction within digital platforms.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
