@@ -1556,6 +1556,15 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>159.</N>
+          <Text>
+            <Key>Anomaly</Key> is something that does not fit the normal pattern
+            or what is usually expected. It stands out because it is different,
+            unusual, or irregular compared to everything else around it.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
