@@ -1565,6 +1565,15 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>160.</N>
+          <Text>
+            <Key>Arcane</Key> describes knowledge, practices, or systems that
+            are obscure and accessible only to a small, initiated group, often
+            because they are complex, symbolic, or intentionally hidden.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
