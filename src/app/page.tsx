@@ -1574,6 +1574,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>161.</N>
+          <Text>
+            <Key>Kerberos</Key> is a network authentication protocol that uses
+            encrypted, time-limited tickets and a trusted third party (KDC) to
+            securely authenticate users and services without sending passwords
+            over the network.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
