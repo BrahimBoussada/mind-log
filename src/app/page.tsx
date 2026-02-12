@@ -1584,6 +1584,17 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>162.</N>
+          <Text>
+            <Key>The Middle Ages</Key> is the period in European history between
+            the fall of the Western Roman Empire and the beginning of the
+            Renaissance. It is characterized by feudalism, the dominance of the
+            Christian Church, the rise of kingdoms and castles, and significant
+            social, cultural, and economic transformations.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
