@@ -1596,7 +1596,7 @@ export default function Home() {
         </Note>
 
         <Note>
-          <N>162.</N>
+          <N>163.</N>
           <Text>
             <Key>TeamSpeak</Key> is a voice-chat application often used as a
             Discord replacement, providing high-quality, low-latency voice
