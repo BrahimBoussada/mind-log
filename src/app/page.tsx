@@ -1605,6 +1605,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>164.</N>
+          <Text>
+            <Key>Glossary</Key> is an alphabetically arranged list of
+            specialized terms accompanied by concise definitions, typically
+            included in a scholarly work to clarify technical vocabulary and
+            support reader comprehension of subject-specific language.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
