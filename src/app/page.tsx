@@ -1615,6 +1615,17 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>165.</N>
+          <Text>
+            <Key>Antiquity</Key> refers to the ancient past, particularly the
+            period before the Middle Ages marked by the rise of early
+            civilizations such as those of Greece, Rome, Egypt, and Mesopotamia.
+            In academic usage, the term may also denote objects, ideas, or
+            traditions that originate from or are characteristic of this distant
+            historical era.
+          </Text>
+        </Note>
         {/* --- end --- */}
       </NoteWrapper>
 
