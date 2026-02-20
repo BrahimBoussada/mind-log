@@ -1626,6 +1626,28 @@ export default function Home() {
             historical era.
           </Text>
         </Note>
+
+        <Note>
+          <N>166.</N>
+          <Text>
+            <Key>whitelist (also called an allowlist)</Key> is a list of
+            approved or trusted people, programs, websites, or items that are
+            allowed to access a system or service. Anything not on the list is
+            automatically blocked, helping improve security and control.
+          </Text>
+        </Note>
+
+        <Note>
+          <N>167.</N>
+          <Text>
+            <Key>Regex (short for regular expression)</Key> is a sequence of
+            characters that forms a pattern used to search, match, extract, or
+            validate text. It’s commonly used in programming to check input
+            formats (like emails or phone numbers), find specific words, or
+            replace parts of a string efficiently.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
