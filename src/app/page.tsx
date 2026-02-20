@@ -1630,7 +1630,7 @@ export default function Home() {
         <Note>
           <N>166.</N>
           <Text>
-            <Key>whitelist (also called an allowlist)</Key> is a list of
+            <Key>Whitelist (also called an allowlist)</Key> is a list of
             approved or trusted people, programs, websites, or items that are
             allowed to access a system or service. Anything not on the list is
             automatically blocked, helping improve security and control.
