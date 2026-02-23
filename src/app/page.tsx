@@ -1648,6 +1648,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>167.</N>
+          <Text>
+            <Key>JSON (JavaScript Object Notation)</Key> is a lightweight text
+            format for storing and exchanging data using simple key–value pairs
+            and arrays, widely used in web apps and APIs because it’s easy to
+            read and supported by many programming languages.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
