@@ -1658,6 +1658,24 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>168.</N>
+          <Text>
+            <Key>Serrure</Key> is a device that secures and locks doors, gates,
+            or containers, using a key, combination, or mechanism to allow
+            authorized access and protect against unauthorized entry.
+          </Text>
+        </Note>
+
+        <Note>
+          <N>169.</N>
+          <Text>
+            <Key>Codex</Key> is an early type of book made of bound pages
+            instead of a scroll. Used in ancient times, it became the model for
+            the modern book because it was easier to read and store.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
