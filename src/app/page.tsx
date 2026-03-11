@@ -1676,6 +1676,14 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>170.</N>
+          <Text>
+            <Key>Attrition</Key> is the gradual weakening of something through
+            continuous pressure, repeated attacks, or ongoing loss of resources.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
