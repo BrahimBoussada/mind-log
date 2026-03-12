@@ -1684,6 +1684,17 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>170.</N>
+          <Text>
+            <Key>Cosmopolitan</Key> describes a person, place, or attitude that
+            is open to and influenced by many different cultures from around the
+            world. A cosmopolitan individual is typically well-traveled or
+            knowledgeable about global customs, languages, and ideas, and feels
+            comfortable interacting with people from diverse backgrounds.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
