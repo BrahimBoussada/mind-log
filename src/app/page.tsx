@@ -1685,7 +1685,7 @@ export default function Home() {
         </Note>
 
         <Note>
-          <N>170.</N>
+          <N>171.</N>
           <Text>
             <Key>Cosmopolitan</Key> describes a person, place, or attitude that
             is open to and influenced by many different cultures from around the
