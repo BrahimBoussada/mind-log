@@ -1695,6 +1695,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>172.</N>
+          <Text>
+            <Key>Nanoangstrom</Key> refers to an extremely small unit of length
+            used in physics and chemistry, representing a fraction of an
+            angstrom, which itself is used to measure atomic-scale distances
+            such as wavelengths of light or the size of atoms.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
