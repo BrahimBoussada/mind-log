@@ -1715,6 +1715,15 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>173.</N>
+          <Text>
+            <Key>Deluge</Key> is a sudden and overwhelming flood or influx of
+            something, whether literal, such as water or rain, or figurative,
+            such as information, requests, or messages, conveying a sense of
+            magnitude and urgency.
+          </Text>
+        </Note>
         {/* --- end --- */}
       </NoteWrapper>
 
