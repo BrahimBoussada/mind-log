@@ -1705,6 +1705,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>172.</N>
+          <Text>
+            <Key>Masonry Layout</Key> is a UI design pattern where items of
+            varying heights are arranged in a tightly packed, brick-like grid,
+            popularized by Pinterest, allowing for a visually balanced and
+            space-efficient display.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
