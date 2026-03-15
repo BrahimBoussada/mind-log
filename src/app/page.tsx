@@ -1724,6 +1724,17 @@ export default function Home() {
             magnitude and urgency.
           </Text>
         </Note>
+
+        <Note>
+          <N>174.</N>
+          <Text>
+            <Key>Dialectical</Key> describes understanding ideas through the
+            interaction of opposing viewpoints. A claim (thesis) is challenged
+            by an opposing claim (antithesis), and their tension can lead to a
+            new, more developed idea (synthesis).
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
