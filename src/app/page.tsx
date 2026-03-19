@@ -1735,6 +1735,17 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>175.</N>
+          <Text>
+            <Key>Catapult</Key> is a device that throws objects by quickly
+            releasing stored energy, usually from tension or a counterweight. It
+            was commonly used in ancient and medieval times to launch stones or
+            other projectiles during battles, especially for attacking walls or
+            fortifications.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
