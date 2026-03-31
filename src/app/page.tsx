@@ -1746,6 +1746,15 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>176.</N>
+          <Text>
+            <Key>Boolean Logic</Key> iis a form of algebra where all values are
+            reduced to two states (like true/false or 1/0) and combined using
+            operations such as AND, OR, and NOT.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
