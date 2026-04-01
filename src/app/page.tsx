@@ -1755,6 +1755,15 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>177.</N>
+          <Text>
+            <Key>tRPC (short for TypeScript Remote Procedure Call)</Key> is a
+            TypeScript framework that lets your frontend call backend functions
+            directly with full type safety and no separate API definitions.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
