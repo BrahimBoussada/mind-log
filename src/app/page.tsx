@@ -1770,7 +1770,7 @@ export default function Home() {
             <Key>Developer experience (DX)</Key> refers to how easy, efficient,
             and enjoyable it is for programmers to work with a tool, platform,
             or codebase. It includes things like clear documentation, good APIs,
-            helpful error messages, fast tools, and smooth workflows—all of
+            helpful error messages, fast tools, and smooth workflows, all of
             which help developers build and fix software more effectively.
           </Text>
         </Note>
