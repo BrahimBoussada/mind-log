@@ -1775,6 +1775,17 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>179.</N>
+          <Text>
+            <Key>Scabies</Key> is a contagious skin condition caused by tiny
+            mites that dig into the skin, causing intense itching and a rash,
+            and it spreads through close contact or shared items. It is treated
+            by applying scabies cream over the body and washing clothes and
+            bedding in hot water to kill remaining mites.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
