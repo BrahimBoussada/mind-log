@@ -1786,6 +1786,17 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>180.</N>
+          <Text>
+            <Key>Physiognomy</Key> is the practice of interpreting a person’s
+            character, personality, or inner traits based on their facial
+            features and overall appearance. It assumes that things like the
+            shape of the eyes, nose, or expression of the face can reveal
+            internal psychological or behavioral qualities.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
