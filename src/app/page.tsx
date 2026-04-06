@@ -1797,6 +1797,17 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>181.</N>
+          <Text>
+            <Key>Technological Singularity</Key> is a hypothetical point in the
+            future when artificial intelligence surpasses human intelligence and
+            begins improving itself on its own, leading to rapid and
+            unpredictable technological growth beyond human understanding or
+            control.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
