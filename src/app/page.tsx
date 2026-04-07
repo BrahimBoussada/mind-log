@@ -1808,6 +1808,17 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>182.</N>
+          <Text>
+            <Key>Stasis</Key> Stasis is a condition in which something remains
+            stable and unchanged, with little or no movement, progress, or
+            development over time. It can refer to physical stillness,
+            biological balance, or situations where growth or change has
+            stopped.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
