@@ -1819,6 +1819,17 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>183.</N>
+          <Text>
+            <Key>Software Development Life Cycle (SDLC)</Key> is a structured
+            process that plans, creates, tests, and deploys software by
+            following stages like requirements, design, coding, testing,
+            deployment, and maintenance to ensure the final product works
+            reliably and meets user needs.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
