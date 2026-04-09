@@ -1830,6 +1830,15 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>184.</N>
+          <Text>
+            <Key>Presigned URLs</Key> are temporary links that give someone
+            permission to access or upload a specific file in cloud storage
+            (like Amazon S3) without needing login credentials
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
