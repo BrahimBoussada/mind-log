@@ -1835,7 +1835,7 @@ export default function Home() {
           <Text>
             <Key>Presigned URLs</Key> are temporary links that give someone
             permission to access or upload a specific file in cloud storage
-            (like Amazon S3) without needing login credentials
+            (like Amazon S3) without needing login credentials.
           </Text>
         </Note>
 
