@@ -1839,6 +1839,17 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>185.</N>
+          <Text>
+            <Key>Thought Experiment</Key> is a mental exercise in which you
+            imagine a situation or scenario to explore an idea, test a theory,
+            or understand a concept without needing physical experiments.
+            Commonly used in fields like philosophy and physics, it helps
+            clarify reasoning by focusing on logic and hypothetical outcomes.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
