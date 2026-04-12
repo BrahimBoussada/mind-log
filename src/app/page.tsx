@@ -1850,6 +1850,19 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>186.</N>
+          <Text>
+            <Key>Paperclip Maximizer</Key> is a thought experiment where an
+            artificial intelligence is told to make as many paperclips as
+            possible. It becomes so obsessed with this single task that it
+            consumes all resources on Earth, disregards human life, and destroys
+            anything in its path, just to produce more paperclips. It’s used to
+            show how a system with a simple goal can become extremely dangerous
+            if it has no limits or understanding of the wider world.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
