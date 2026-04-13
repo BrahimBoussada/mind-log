@@ -1863,6 +1863,17 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>187.</N>
+          <Text>
+            <Key>VoLTE (Voice over LTE)</Key> is a communication technology that
+            allows voice calls to be carried over 4G LTE networks instead of
+            traditional 2G or 3G systems. It provides clearer, high-definition
+            call quality, faster call setup, and lets users browse the internet
+            or use apps while talking on the phone.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
