@@ -1874,6 +1874,16 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>188.</N>
+          <Text>
+            <Key>CTR (Click-Through Rate)</Key> is a metric that shows how often
+            people click on a link or ad after seeing it. It’s calculated by
+            dividing the number of clicks by the number of times the content is
+            displayed (impressions), expressed as a percentage.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
