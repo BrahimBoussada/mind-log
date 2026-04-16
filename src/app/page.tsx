@@ -1884,6 +1884,18 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>189.</N>
+          <Text>
+            <Key>TOTP (Time-Based One-Time Password)</Key> is a method that
+            generates temporary, time-limited codes using a shared secret key
+            and the current time. Each code is valid only for a short period
+            (usually about 30 seconds), making it useful for two-factor
+            authentication (2FA) in apps like Google Authenticator to enhance
+            account security beyond just a password.
+          </Text>
+        </Note>
+
         {/* --- end --- */}
       </NoteWrapper>
 
