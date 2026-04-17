@@ -1896,6 +1896,17 @@ export default function Home() {
           </Text>
         </Note>
 
+        <Note>
+          <N>190.</N>
+          <Text>
+            <Key>Auxiliary</Key> refers to something that provides support,
+            help, or an additional function to a main system, process, or role.
+            It is not the primary element, but it assists or enhances how the
+            main part works. For example, an auxiliary tool helps complete a
+            task, or an auxiliary verb (like “be” or “have”) supports the main
+            verb in a sentence.
+          </Text>
+        </Note>
         {/* --- end --- */}
       </NoteWrapper>
 
