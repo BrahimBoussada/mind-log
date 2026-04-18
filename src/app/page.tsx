@@ -1907,6 +1907,16 @@ export default function Home() {
             verb in a sentence.
           </Text>
         </Note>
+
+        <Note>
+          <N>191.</N>
+          <Text>
+            <Key>WCAG (Web Content Accessibility Guidelines)</Key> are
+            guidelines by the World Wide Web Consortium (W3C) that help make
+            websites accessible to people with disabilities, based on four
+            principles: perceivable, operable, understandable, and robust.
+          </Text>
+        </Note>
         {/* --- end --- */}
       </NoteWrapper>
 
