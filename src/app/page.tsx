@@ -1917,6 +1917,17 @@ export default function Home() {
             principles: perceivable, operable, understandable, and robust.
           </Text>
         </Note>
+
+        <Note>
+          <N>192.</N>
+          <Text>
+            <Key>Internet Engineering Task Force</Key> is a global open
+            organization that develops and maintains the technical standards
+            that make the internet work, creating protocols for web
+            communication, email, and data transfer so different systems can
+            communicate reliably.
+          </Text>
+        </Note>
         {/* --- end --- */}
       </NoteWrapper>
 
