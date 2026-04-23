@@ -1937,6 +1937,18 @@ export default function Home() {
             one individual to another to repair damage or replace missing parts.
           </Text>
         </Note>
+
+        <Note>
+          <N>194.</N>
+          <Text>
+            <Key>FTP (File Transfer Protocol)</Key> is a network protocol used
+            to transfer files between computers or servers over the internet or
+            a local network. It allows users to upload, download, and manage
+            files on a remote server using an FTP client or web browser. FTP
+            operates on a client–server model, where one system hosts the files
+            (server) and another connects to access and transfer them.
+          </Text>
+        </Note>
         {/* --- end --- */}
       </NoteWrapper>
 
