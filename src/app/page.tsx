@@ -1928,6 +1928,15 @@ export default function Home() {
             communicate reliably.
           </Text>
         </Note>
+
+        <Note>
+          <N>193.</N>
+          <Text>
+            <Key>Grafts</Key> are pieces of living tissue such as skin, bone, or
+            organs that are moved from one part of the body to another or from
+            one individual to another to repair damage or replace missing parts.
+          </Text>
+        </Note>
         {/* --- end --- */}
       </NoteWrapper>
 
