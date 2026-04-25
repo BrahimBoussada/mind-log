@@ -15,7 +15,6 @@ export default function Home() {
             modern AI.
           </Text>
         </Note>
-
         <Note>
           <N>2. </N>
           <Text>
@@ -23,7 +22,6 @@ export default function Home() {
             and HTTP at CERN beginning in 1989.
           </Text>
         </Note>
-
         <Note>
           <N>3. </N>
           <Text>
@@ -31,7 +29,6 @@ export default function Home() {
             neutrons, surrounded by electrons.
           </Text>
         </Note>
-
         <Note>
           <N>4. </N>
           <Text>
@@ -40,7 +37,6 @@ export default function Home() {
             adjustments to achieve a goal.
           </Text>
         </Note>
-
         <Note>
           <N>5. </N>
           <Text>
@@ -49,7 +45,6 @@ export default function Home() {
             infrared, visible light, ultraviolet, X-rays, and gamma rays.
           </Text>
         </Note>
-
         <Note>
           <N>6. </N>
           <Text>
@@ -57,7 +52,6 @@ export default function Home() {
             matter that behaves according to the rules of quantum mechanics.
           </Text>
         </Note>
-
         <Note>
           <N>7. </N>
           <Text>
@@ -65,7 +59,6 @@ export default function Home() {
             thesis to define a scalable, stateless architecture for web APIs.
           </Text>
         </Note>
-
         <Note>
           <N>8. </N>
           <Text>
@@ -73,7 +66,6 @@ export default function Home() {
             and open-source operating system kernel.
           </Text>
         </Note>
-
         <Note>
           <N>9. </N>
           <Text>
@@ -82,7 +74,6 @@ export default function Home() {
             and usage.
           </Text>
         </Note>
-
         <Note>
           <N>10. </N>
           <Text>
@@ -91,7 +82,6 @@ export default function Home() {
             two or more distinct components or elements.
           </Text>
         </Note>
-
         <Note>
           <N>11. </N>
 
@@ -101,7 +91,6 @@ export default function Home() {
             process.
           </Text>
         </Note>
-
         <Note>
           <N>12. </N>
           <Text>
@@ -110,7 +99,6 @@ export default function Home() {
             efficiently.
           </Text>
         </Note>
-
         <Note>
           <N>13. </N>
           <Text>
@@ -118,7 +106,6 @@ export default function Home() {
             and how their meanings and forms have evolved over time.
           </Text>
         </Note>
-
         <Note>
           <N>14. </N>
           <Text>
@@ -126,7 +113,6 @@ export default function Home() {
             label, and represent quantities or values.
           </Text>
         </Note>
-
         <Note>
           <N>15. </N>
 
@@ -136,7 +122,6 @@ export default function Home() {
             connect to each other on the internet.
           </Text>
         </Note>
-
         <Note>
           <N>16. </N>
           <Text>
@@ -145,7 +130,6 @@ export default function Home() {
             and the senses.
           </Text>
         </Note>
-
         <Note>
           <N>17. </N>
           <Text>
@@ -153,7 +137,6 @@ export default function Home() {
             such as moments, events, or objects that don’t last long.
           </Text>
         </Note>
-
         <Note>
           <N>18. </N>
 
@@ -162,7 +145,6 @@ export default function Home() {
             depending on speed and gravity.
           </Text>
         </Note>
-
         <Note>
           <N>19. </N>
           <Text>
@@ -172,7 +154,6 @@ export default function Home() {
             ethical considerations.
           </Text>
         </Note>
-
         <Note>
           <N>20. </N>
 
@@ -182,7 +163,6 @@ export default function Home() {
             exact form.
           </Text>
         </Note>
-
         <Note>
           <N>21. </N>
 
@@ -191,7 +171,6 @@ export default function Home() {
             object, expressed as a multiple of Earth's gravity (1 G = 9.8 m/s²).
           </Text>
         </Note>
-
         <Note>
           <N>22. </N>
 
@@ -202,7 +181,6 @@ export default function Home() {
             time.
           </Text>
         </Note>
-
         <Note>
           <N>23. </N>
 
@@ -213,7 +191,6 @@ export default function Home() {
             and inhibits further corrosion.
           </Text>
         </Note>
-
         <Note>
           <N>24. </N>
 
@@ -223,7 +200,6 @@ export default function Home() {
             often to facilitate analysis or derive meaning.
           </Text>
         </Note>
-
         <Note>
           <N>25. </N>
           <Text>
@@ -232,7 +208,6 @@ export default function Home() {
             permissions, and uses journaling to prevent data corruption.
           </Text>
         </Note>
-
         <Note>
           <N>26. </N>
           <Text>
@@ -241,7 +216,6 @@ export default function Home() {
             (~1.618).
           </Text>
         </Note>
-
         <Note>
           <N>27. </N>
 
@@ -252,7 +226,6 @@ export default function Home() {
             simulation.
           </Text>
         </Note>
-
         <Note>
           <N>28. </N>
 
@@ -261,7 +234,6 @@ export default function Home() {
             independently, usually by following predefined rules or algorithms.
           </Text>
         </Note>
-
         <Note>
           <N>29. </N>
           <Text>
@@ -270,7 +242,6 @@ export default function Home() {
             it’s on the outside.
           </Text>
         </Note>
-
         <Note>
           <N>30. </N>
 
@@ -281,7 +252,6 @@ export default function Home() {
             device performance.
           </Text>
         </Note>
-
         <Note>
           <N>31. </N>
 
@@ -291,7 +261,6 @@ export default function Home() {
             aiding in their pollination.
           </Text>
         </Note>
-
         <Note>
           <N>32. </N>
 
@@ -302,7 +271,6 @@ export default function Home() {
             host’s expense.
           </Text>
         </Note>
-
         <Note>
           <N>33. </N>
 
@@ -312,7 +280,6 @@ export default function Home() {
             computers and networks from cyber threats.
           </Text>
         </Note>
-
         <Note>
           <N>34. </N>
 
@@ -323,7 +290,6 @@ export default function Home() {
             processes.
           </Text>
         </Note>
-
         <Note>
           <N>35. </N>
 
@@ -332,7 +298,6 @@ export default function Home() {
             interact with each other and with their physical environment.
           </Text>
         </Note>
-
         <Note>
           <N>36. </N>
           <Text>
@@ -340,7 +305,6 @@ export default function Home() {
             to mean eternity or a billion years in science.
           </Text>
         </Note>
-
         <Note>
           <N>37. </N>
 
@@ -351,7 +315,6 @@ export default function Home() {
             and harmony within the body.
           </Text>
         </Note>
-
         <Note>
           <N>38. </N>
           <Text>
@@ -360,7 +323,6 @@ export default function Home() {
             their identification and therapeutic use.
           </Text>
         </Note>
-
         <Note>
           <N>39. </N>
 
@@ -369,7 +331,6 @@ export default function Home() {
             emotions or facial expressions in text, like {":-)"} or {":P"}.
           </Text>
         </Note>
-
         <Note>
           <N>40. </N>
 
@@ -379,7 +340,6 @@ export default function Home() {
             original can run on it.
           </Text>
         </Note>
-
         <Note>
           <N>41. </N>
 
@@ -389,7 +349,6 @@ export default function Home() {
             reliably.
           </Text>
         </Note>
-
         <Note>
           <N>42. </N>
 
@@ -400,7 +359,6 @@ export default function Home() {
             conclusions.
           </Text>
         </Note>
-
         <Note>
           <N>43. </N>
           <Text>
@@ -409,7 +367,6 @@ export default function Home() {
             fiber, satellite, or mobile data.
           </Text>
         </Note>
-
         <Note>
           <N>44. </N>
           <Text>
@@ -418,7 +375,6 @@ export default function Home() {
             and historically for navigation and determining direction.
           </Text>
         </Note>
-
         <Note>
           <N>45. </N>
           <Text>
@@ -427,7 +383,6 @@ export default function Home() {
             packet loss, and stable performance for critical applications.
           </Text>
         </Note>
-
         <Note>
           <N>46. </N>
           <Text>
@@ -435,7 +390,6 @@ export default function Home() {
             the ability to notice subtle details and grasp their significance.
           </Text>
         </Note>
-
         <Note>
           <N>47. </N>
           <Text>
@@ -448,7 +402,6 @@ export default function Home() {
             programs.
           </Text>
         </Note>
-
         <Note>
           <N>48. </N>
 
@@ -457,7 +410,6 @@ export default function Home() {
             talent or ability in a particular field at an unusually early age.
           </Text>
         </Note>
-
         <Note>
           <N>49. </N>
           <Text>
@@ -466,7 +418,6 @@ export default function Home() {
             often causing significant cognitive and personality changes.
           </Text>
         </Note>
-
         <Note>
           <N>50. </N>
           <Text>
@@ -474,7 +425,6 @@ export default function Home() {
             network from sender to receiver, measured in milliseconds.
           </Text>
         </Note>
-
         <Note>
           <N>51. </N>
           <Text>
@@ -483,7 +433,6 @@ export default function Home() {
             enabling automated monitoring, analysis, and decision-making.
           </Text>
         </Note>
-
         <Note>
           <N>52. </N>
           <Text>
@@ -492,7 +441,6 @@ export default function Home() {
             described it as an immersive 3D digital world parallel to reality.
           </Text>
         </Note>
-
         <Note>
           <N>53. </N>
           <Text>
@@ -501,7 +449,6 @@ export default function Home() {
             fast a system or network reacts.
           </Text>
         </Note>
-
         <Note>
           <N>54. </N>
           <Text>
@@ -510,7 +457,6 @@ export default function Home() {
             place to make writing and testing programs easier.
           </Text>
         </Note>
-
         <Note>
           <N>55. </N>
           <Text>
@@ -519,7 +465,6 @@ export default function Home() {
             searching and secure storage, such as keeping passwords safe.
           </Text>
         </Note>
-
         <Note>
           <N>56. </N>
           <Text>
@@ -529,7 +474,6 @@ export default function Home() {
             speed.
           </Text>
         </Note>
-
         <Note>
           <N>57. </N>
           <Text>
@@ -538,7 +482,6 @@ export default function Home() {
             key, ensuring confidentiality and integrity.
           </Text>
         </Note>
-
         <Note>
           <N>58. </N>
           <Text>
@@ -547,7 +490,6 @@ export default function Home() {
             while keeping its functionality unchanged.
           </Text>
         </Note>
-
         <Note>
           <N>59. </N>
           <Text>
@@ -556,7 +498,6 @@ export default function Home() {
             multiple perspectives, such as time, location, or product.
           </Text>
         </Note>
-
         <Note>
           <N>60. </N>
           <Text>
@@ -565,7 +506,6 @@ export default function Home() {
             actions stay contained without affecting the host system.
           </Text>
         </Note>
-
         <Note>
           <N>61. </N>
           <Text>
@@ -575,7 +515,6 @@ export default function Home() {
             mapping of everybody and how they're related".
           </Text>
         </Note>
-
         <Note>
           <N>62. </N>
           <Text>
@@ -585,7 +524,6 @@ export default function Home() {
             real time.
           </Text>
         </Note>
-
         <Note>
           <N>63. </N>
           <Text>
@@ -595,7 +533,6 @@ export default function Home() {
             sharing.
           </Text>
         </Note>
-
         <Note>
           <N>64. </N>
           <Text>
@@ -605,7 +542,6 @@ export default function Home() {
             API, or service.
           </Text>
         </Note>
-
         <Note>
           <N>65. </N>
           <Text>
@@ -614,7 +550,6 @@ export default function Home() {
             or firm grip in pursuing a goal or holding onto something.
           </Text>
         </Note>
-
         <Note>
           <N>66. </N>
           <Text>
@@ -624,7 +559,6 @@ export default function Home() {
             and more balanced.
           </Text>
         </Note>
-
         <Note>
           <N>67. </N>
           <Text>
@@ -634,7 +568,6 @@ export default function Home() {
             include base-2, or binary, which uses only the digits 0 and 1.
           </Text>
         </Note>
-
         <Note>
           <N>68. </N>
           <Text>
@@ -642,7 +575,6 @@ export default function Home() {
             Not-a-Number, returning true if it isn’t numeric and false if it is.
           </Text>
         </Note>
-
         <Note>
           <N>69. </N>
           <Text>
@@ -651,7 +583,6 @@ export default function Home() {
             functions.
           </Text>
         </Note>
-
         <Note>
           <N>70. </N>
           <Text>
@@ -660,7 +591,6 @@ export default function Home() {
             join, they form a new cell with a complete set of chromosomes.
           </Text>
         </Note>
-
         <Note>
           <N>71. </N>
           <Text>
@@ -669,7 +599,6 @@ export default function Home() {
             discoloration.
           </Text>
         </Note>
-
         <Note>
           <N>72. </N>
           <Text>
@@ -678,7 +607,6 @@ export default function Home() {
             insignificant it is.
           </Text>
         </Note>
-
         <Note>
           <N>73. </N>
           <Text>
@@ -687,7 +615,6 @@ export default function Home() {
             that avoid unnecessary risks and promote long-term benefits.
           </Text>
         </Note>
-
         <Note>
           <N>74. </N>
           <Text>
@@ -695,7 +622,6 @@ export default function Home() {
             achieve a specific goal, often by outsmarting an opponent.
           </Text>
         </Note>
-
         <Note>
           <N>75. </N>
           <Text>
@@ -703,7 +629,6 @@ export default function Home() {
             knowledge, such as science, art, and philosophy.
           </Text>
         </Note>
-
         <Note>
           <N>76. </N>
           <Text>
@@ -713,7 +638,6 @@ export default function Home() {
             systems.
           </Text>
         </Note>
-
         <Note>
           <N>77. </N>
           <Text>
@@ -723,7 +647,6 @@ export default function Home() {
             industrial, and other professional settings.
           </Text>
         </Note>
-
         <Note>
           <N>78. </N>
           <Text>
@@ -732,7 +655,6 @@ export default function Home() {
             helping cells regulate water balance.
           </Text>
         </Note>
-
         <Note>
           <N>79. </N>
           <Text>
@@ -741,7 +663,6 @@ export default function Home() {
             transform substances and explore their hidden properties.
           </Text>
         </Note>
-
         <Note>
           <N>80. </N>
           <Text>
@@ -750,7 +671,6 @@ export default function Home() {
             details for sites like email or banking.
           </Text>
         </Note>
-
         <Note>
           <N>81. </N>
           <Text>
@@ -760,7 +680,6 @@ export default function Home() {
             colors like green, pink, and purple.
           </Text>
         </Note>
-
         <Note>
           <N>82. </N>
           <Text>
@@ -769,7 +688,6 @@ export default function Home() {
             access to a computer system without being detected.
           </Text>
         </Note>
-
         <Note>
           <N>83. </N>
           <Text>
@@ -778,7 +696,6 @@ export default function Home() {
             courtrooms, meetings, or live events.
           </Text>
         </Note>
-
         <Note>
           <N>84. </N>
           <Text>
@@ -787,7 +704,6 @@ export default function Home() {
             relationships between them.
           </Text>
         </Note>
-
         <Note>
           <N>85. </N>
           <Text>
@@ -798,7 +714,6 @@ export default function Home() {
             as a pacemaker.
           </Text>
         </Note>
-
         <Note>
           <N>86. </N>
           <Text>
@@ -807,7 +722,6 @@ export default function Home() {
             apps.
           </Text>
         </Note>
-
         <Note>
           <N>87. </N>
           <Text>
@@ -816,7 +730,6 @@ export default function Home() {
             compatibility.
           </Text>
         </Note>
-
         <Note>
           <N>88. </N>
           <Text>
@@ -825,7 +738,6 @@ export default function Home() {
             attacks and protect the population within.
           </Text>
         </Note>
-
         <Note>
           <N>89. </N>
           <Text>
@@ -835,7 +747,6 @@ export default function Home() {
             configuration and management.
           </Text>
         </Note>
-
         <Note>
           <N>90. </N>
           <Text>
@@ -846,7 +757,6 @@ export default function Home() {
             knowing the machine’s exact settings.
           </Text>
         </Note>
-
         <Note>
           <N>91. </N>
           <Text>
@@ -857,7 +767,6 @@ export default function Home() {
             smart cities, and autonomous vehicles.
           </Text>
         </Note>
-
         <Note>
           <N>92. </N>
           <Text>
@@ -868,7 +777,6 @@ export default function Home() {
             without affecting its visual or auditory quality.
           </Text>
         </Note>
-
         <Note>
           <N>93. </N>
           <Text>
@@ -878,7 +786,6 @@ export default function Home() {
             tissue growth.
           </Text>
         </Note>
-
         <Note>
           <N>94. </N>
           <Text>
@@ -888,7 +795,6 @@ export default function Home() {
             it easy to revert to earlier versions if needed.
           </Text>
         </Note>
-
         <Note>
           <N>95. </N>
           <Text>
@@ -898,7 +804,6 @@ export default function Home() {
             innovations like the internet, GPS, and stealth technology.
           </Text>
         </Note>
-
         <Note>
           <N>96. </N>
           <Text>
@@ -908,7 +813,6 @@ export default function Home() {
             visiting the site.
           </Text>
         </Note>
-
         <Note>
           <N>97. </N>
           <Text>
@@ -918,7 +822,6 @@ export default function Home() {
             movement, or conflict blooms into full, active form.
           </Text>
         </Note>
-
         <Note>
           <N>98. </N>
           <Text>
@@ -928,7 +831,6 @@ export default function Home() {
             spectacular electrical arcs and sparks.
           </Text>
         </Note>
-
         <Note>
           <N>99. </N>
           <Text>
@@ -937,7 +839,6 @@ export default function Home() {
             within or near the edge of Earth’s atmosphere.
           </Text>
         </Note>
-
         <Note>
           <N>100. </N>
           <Text>
@@ -948,7 +849,6 @@ export default function Home() {
             universe.
           </Text>
         </Note>
-
         <Note>
           <N>101. </N>
           <Text>
@@ -959,7 +859,6 @@ export default function Home() {
             Mark Klein.
           </Text>
         </Note>
-
         <Note>
           <N>102. </N>
           <Text>
@@ -969,7 +868,6 @@ export default function Home() {
             with road safety and labor regulations.
           </Text>
         </Note>
-
         <Note>
           <N>103. </N>
           <Text>
@@ -979,7 +877,6 @@ export default function Home() {
             view the page.
           </Text>
         </Note>
-
         <Note>
           <N>104. </N>
           <Text>
@@ -989,7 +886,6 @@ export default function Home() {
             that reach the ground as a sudden, thunder-like noise.
           </Text>
         </Note>
-
         <Note>
           <N>105. </N>
           <Text>
@@ -999,7 +895,6 @@ export default function Home() {
             damage, until the flaw is discovered and corrected.
           </Text>
         </Note>
-
         <Note>
           <N>106. </N>
           <Text>
@@ -1009,7 +904,6 @@ export default function Home() {
             hospitals, companies, and governments worldwide.
           </Text>
         </Note>
-
         <Note>
           <N>107. </N>
           <Text>
@@ -1019,7 +913,6 @@ export default function Home() {
             object’s distance, speed, and direction.
           </Text>
         </Note>
-
         <Note>
           <N>108. </N>
           <Text>
@@ -1029,7 +922,6 @@ export default function Home() {
             honesty.
           </Text>
         </Note>
-
         <Note>
           <N>109. </N>
           <Text>
@@ -1039,7 +931,6 @@ export default function Home() {
             supported computers.
           </Text>
         </Note>
-
         <Note>
           <N>110. </N>
           <Text>
@@ -1049,7 +940,6 @@ export default function Home() {
             people or processes work together.
           </Text>
         </Note>
-
         <Note>
           <N>111. </N>
           <Text>
@@ -1058,7 +948,6 @@ export default function Home() {
             shock and, if not treated quickly, death.
           </Text>
         </Note>
-
         <Note>
           <N>112. </N>
           <Text>
@@ -1068,7 +957,6 @@ export default function Home() {
             data in digital communication.
           </Text>
         </Note>
-
         <Note>
           <N>113. </N>
           <Text>
@@ -1078,7 +966,6 @@ export default function Home() {
             dual-boot.
           </Text>
         </Note>
-
         <Note>
           <N>114.</N>
           <Text>
@@ -1088,7 +975,6 @@ export default function Home() {
             communication.
           </Text>
         </Note>
-
         <Note>
           <N>115.</N>
           <Text>
@@ -1098,7 +984,6 @@ export default function Home() {
             meaning “one who complains” or “makes a legal complaint.”
           </Text>
         </Note>
-
         <Note>
           <N>116.</N>
           <Text>
@@ -1107,7 +992,6 @@ export default function Home() {
             differ, and an output of 0 when they are identical.
           </Text>
         </Note>
-
         <Note>
           <N>117.</N>
           <Text>
@@ -1118,7 +1002,6 @@ export default function Home() {
             of the cloud.
           </Text>
         </Note>
-
         <Note>
           <N>118.</N>
           <Text>
@@ -1127,7 +1010,6 @@ export default function Home() {
             visually identify their account.
           </Text>
         </Note>
-
         <Note>
           <N>119.</N>
           <Text>
@@ -1137,7 +1019,6 @@ export default function Home() {
             corresponding plaintext letter is shifted in the alphabet.
           </Text>
         </Note>
-
         <Note>
           <N>120.</N>
           <Text>
@@ -1147,7 +1028,6 @@ export default function Home() {
             something new and cohesive.
           </Text>
         </Note>
-
         <Note>
           <N>121.</N>
           <Text>
@@ -1157,7 +1037,6 @@ export default function Home() {
             leftovers from its early formation.
           </Text>
         </Note>
-
         <Note>
           <N>122.</N>
           <Text>
@@ -1167,7 +1046,6 @@ export default function Home() {
             fight-or-flight responses.
           </Text>
         </Note>
-
         <Note>
           <N>123.</N>
           <Text>
@@ -1176,7 +1054,6 @@ export default function Home() {
             or intentional non-retention of information.
           </Text>
         </Note>
-
         <Note>
           <N>124.</N>
           <Text>
@@ -1186,7 +1063,6 @@ export default function Home() {
             and a persistent feeling of grief.
           </Text>
         </Note>
-
         <Note>
           <N>125.</N>
           <Text>
@@ -1196,7 +1072,6 @@ export default function Home() {
             electrical circuits.
           </Text>
         </Note>
-
         <Note>
           <N>126.</N>
           <Text>
@@ -1206,7 +1081,6 @@ export default function Home() {
             of equal peers rather than using a central index or server.
           </Text>
         </Note>
-
         <Note>
           <N>127.</N>
           <Text>
@@ -1216,7 +1090,6 @@ export default function Home() {
             respond quickly in emergency situations.
           </Text>
         </Note>
-
         <Note>
           <N>128.</N>
           <Text>
@@ -1229,7 +1102,6 @@ export default function Home() {
             real-world browser implementation and interoperability.
           </Text>
         </Note>
-
         <Note>
           <N>129.</N>
           <Text>
@@ -1238,7 +1110,6 @@ export default function Home() {
             ensuring they run reliably across clusters of machines.
           </Text>
         </Note>
-
         <Note>
           <N>130.</N>
           <Text>
@@ -1250,7 +1121,6 @@ export default function Home() {
             viewing only, so that content remains secure and used as intended.
           </Text>
         </Note>
-
         <Note>
           <N>131.</N>
           <Text>
@@ -1260,7 +1130,6 @@ export default function Home() {
             example, tobacco smoke is considered carcinogenic.
           </Text>
         </Note>
-
         <Note>
           <N>132.</N>
           <Text>
@@ -1270,7 +1139,6 @@ export default function Home() {
             and maintain security.
           </Text>
         </Note>
-
         <Note>
           <N>133.</N>
           <Text>
@@ -1281,7 +1149,6 @@ export default function Home() {
             server.
           </Text>
         </Note>
-
         <Note>
           <N>134.</N>
           <Text>
@@ -1293,7 +1160,6 @@ export default function Home() {
             precise, and easy to see.
           </Text>
         </Note>
-
         <Note>
           <N>135.</N>
           <Text>
@@ -1305,7 +1171,6 @@ export default function Home() {
             religious tradition.
           </Text>
         </Note>
-
         <Note>
           <N>136.</N>
           <Text>
@@ -1316,7 +1181,6 @@ export default function Home() {
             spreading malware.
           </Text>
         </Note>
-
         <Note>
           <N>137.</N>
           <Text>
@@ -1327,7 +1191,6 @@ export default function Home() {
             rather than as something trained or managed.
           </Text>
         </Note>
-
         <Note>
           <N>138.</N>
           <Text>
@@ -1337,7 +1200,6 @@ export default function Home() {
             institutions so that this dominance appears natural or legitimate.
           </Text>
         </Note>
-
         <Note>
           <N>139.</N>
           <Text>
@@ -1347,7 +1209,6 @@ export default function Home() {
             connotations.
           </Text>
         </Note>
-
         <Note>
           <N>140.</N>
           <Text>
@@ -1358,7 +1219,6 @@ export default function Home() {
             considered a significant cybersecurity threat.
           </Text>
         </Note>
-
         <Note>
           <N>141.</N>
           <Text>
@@ -1368,7 +1228,6 @@ export default function Home() {
             data or systems.
           </Text>
         </Note>
-
         <Note>
           <N>142.</N>
           <Text>
@@ -1379,7 +1238,6 @@ export default function Home() {
             thinking to reach a resolution.
           </Text>
         </Note>
-
         <Note>
           <N>143.</N>
           <Text>
@@ -1389,7 +1247,6 @@ export default function Home() {
             heart rate, balance, posture, and coordination of movement.
           </Text>
         </Note>
-
         <Note>
           <N>144.</N>
           <Text>
@@ -1399,7 +1256,6 @@ export default function Home() {
             public.
           </Text>
         </Note>
-
         <Note>
           <N>145.</N>
           <Text>
@@ -1411,7 +1267,6 @@ export default function Home() {
             transmission, and streaming of video content.
           </Text>
         </Note>
-
         <Note>
           <N>146.</N>
           <Text>
@@ -1421,7 +1276,6 @@ export default function Home() {
             slow the system, track browsing habits, and raise privacy concerns.
           </Text>
         </Note>
-
         <Note>
           <N>147.</N>
           <Text>
@@ -1432,7 +1286,6 @@ export default function Home() {
             operation.
           </Text>
         </Note>
-
         <Note>
           <N>148.</N>
           <Text>
@@ -1442,7 +1295,6 @@ export default function Home() {
             systems and digital environments.
           </Text>
         </Note>
-
         <Note>
           <N>149.</N>
           <Text>
@@ -1453,7 +1305,6 @@ export default function Home() {
             instantly to control driving functions.
           </Text>
         </Note>
-
         <Note>
           <N>150.</N>
           <Text>
@@ -1463,7 +1314,6 @@ export default function Home() {
             device, which holds the decryption key, can read the data.
           </Text>
         </Note>
-
         <Note>
           <N>151.</N>
           <Text>
@@ -1473,7 +1323,6 @@ export default function Home() {
             a connection or ensuring reliable delivery.
           </Text>
         </Note>
-
         <Note>
           <N>152.</N>
           <Text>
@@ -1483,7 +1332,6 @@ export default function Home() {
             routers.
           </Text>
         </Note>
-
         <Note>
           <N>153.</N>
           <Text>
@@ -1494,7 +1342,6 @@ export default function Home() {
             such as letters, numbers, and symbols.
           </Text>
         </Note>
-
         <Note>
           <N>154.</N>
           <Text>
@@ -1504,7 +1351,6 @@ export default function Home() {
             people are encouraged to switch to a newer or better alternative.
           </Text>
         </Note>
-
         <Note>
           <N>155.</N>
           <Text>
@@ -1514,7 +1360,6 @@ export default function Home() {
             analysts, and developers understand how programs work internally.
           </Text>
         </Note>
-
         <Note>
           <N>156.</N>
           <Text>
@@ -1524,7 +1369,6 @@ export default function Home() {
             phones, and manage network security.
           </Text>
         </Note>
-
         <Note>
           <N>156.</N>
           <Text>
@@ -1534,7 +1378,6 @@ export default function Home() {
             information can be downloaded and activated digitally.
           </Text>
         </Note>
-
         <Note>
           <N>157.</N>
           <Text>
@@ -1545,7 +1388,6 @@ export default function Home() {
             advantage without using direct force.
           </Text>
         </Note>
-
         <Note>
           <N>158.</N>
           <Text>
@@ -1555,7 +1397,6 @@ export default function Home() {
             mechanism for ongoing revenue extraction within digital platforms.
           </Text>
         </Note>
-
         <Note>
           <N>159.</N>
           <Text>
@@ -1564,7 +1405,6 @@ export default function Home() {
             unusual, or irregular compared to everything else around it.
           </Text>
         </Note>
-
         <Note>
           <N>160.</N>
           <Text>
@@ -1573,7 +1413,6 @@ export default function Home() {
             because they are complex, symbolic, or intentionally hidden.
           </Text>
         </Note>
-
         <Note>
           <N>161.</N>
           <Text>
@@ -1583,7 +1422,6 @@ export default function Home() {
             over the network.
           </Text>
         </Note>
-
         <Note>
           <N>162.</N>
           <Text>
@@ -1594,7 +1432,6 @@ export default function Home() {
             social, cultural, and economic transformations.
           </Text>
         </Note>
-
         <Note>
           <N>163.</N>
           <Text>
@@ -1604,7 +1441,6 @@ export default function Home() {
             integrated text channels and video features.
           </Text>
         </Note>
-
         <Note>
           <N>164.</N>
           <Text>
@@ -1614,7 +1450,6 @@ export default function Home() {
             support reader comprehension of subject-specific language.
           </Text>
         </Note>
-
         <Note>
           <N>165.</N>
           <Text>
@@ -1626,7 +1461,6 @@ export default function Home() {
             historical era.
           </Text>
         </Note>
-
         <Note>
           <N>166.</N>
           <Text>
@@ -1636,7 +1470,6 @@ export default function Home() {
             automatically blocked, helping improve security and control.
           </Text>
         </Note>
-
         <Note>
           <N>167.</N>
           <Text>
@@ -1647,7 +1480,6 @@ export default function Home() {
             replace parts of a string efficiently.
           </Text>
         </Note>
-
         <Note>
           <N>167.</N>
           <Text>
@@ -1657,7 +1489,6 @@ export default function Home() {
             read and supported by many programming languages.
           </Text>
         </Note>
-
         <Note>
           <N>168.</N>
           <Text>
@@ -1666,7 +1497,6 @@ export default function Home() {
             authorized access and protect against unauthorized entry.
           </Text>
         </Note>
-
         <Note>
           <N>169.</N>
           <Text>
@@ -1675,7 +1505,6 @@ export default function Home() {
             the modern book because it was easier to read and store.
           </Text>
         </Note>
-
         <Note>
           <N>170.</N>
           <Text>
@@ -1683,7 +1512,6 @@ export default function Home() {
             continuous pressure, repeated attacks, or ongoing loss of resources.
           </Text>
         </Note>
-
         <Note>
           <N>171.</N>
           <Text>
@@ -1694,7 +1522,6 @@ export default function Home() {
             comfortable interacting with people from diverse backgrounds.
           </Text>
         </Note>
-
         <Note>
           <N>172.</N>
           <Text>
@@ -1704,7 +1531,6 @@ export default function Home() {
             such as wavelengths of light or the size of atoms.
           </Text>
         </Note>
-
         <Note>
           <N>172.</N>
           <Text>
@@ -1714,7 +1540,6 @@ export default function Home() {
             space-efficient display.
           </Text>
         </Note>
-
         <Note>
           <N>173.</N>
           <Text>
@@ -1724,7 +1549,6 @@ export default function Home() {
             magnitude and urgency.
           </Text>
         </Note>
-
         <Note>
           <N>174.</N>
           <Text>
@@ -1734,7 +1558,6 @@ export default function Home() {
             new, more developed idea (synthesis).
           </Text>
         </Note>
-
         <Note>
           <N>175.</N>
           <Text>
@@ -1745,7 +1568,6 @@ export default function Home() {
             fortifications.
           </Text>
         </Note>
-
         <Note>
           <N>176.</N>
           <Text>
@@ -1754,7 +1576,6 @@ export default function Home() {
             operations such as AND, OR, and NOT.
           </Text>
         </Note>
-
         <Note>
           <N>177.</N>
           <Text>
@@ -1763,7 +1584,6 @@ export default function Home() {
             directly with full type safety and no separate API definitions.
           </Text>
         </Note>
-
         <Note>
           <N>178.</N>
           <Text>
@@ -1774,7 +1594,6 @@ export default function Home() {
             which help developers build and fix software more effectively.
           </Text>
         </Note>
-
         <Note>
           <N>179.</N>
           <Text>
@@ -1785,7 +1604,6 @@ export default function Home() {
             bedding in hot water to kill remaining mites.
           </Text>
         </Note>
-
         <Note>
           <N>180.</N>
           <Text>
@@ -1796,7 +1614,6 @@ export default function Home() {
             internal psychological or behavioral qualities.
           </Text>
         </Note>
-
         <Note>
           <N>181.</N>
           <Text>
@@ -1807,7 +1624,6 @@ export default function Home() {
             control.
           </Text>
         </Note>
-
         <Note>
           <N>182.</N>
           <Text>
@@ -1818,7 +1634,6 @@ export default function Home() {
             stopped.
           </Text>
         </Note>
-
         <Note>
           <N>183.</N>
           <Text>
@@ -1829,7 +1644,6 @@ export default function Home() {
             reliably and meets user needs.
           </Text>
         </Note>
-
         <Note>
           <N>184.</N>
           <Text>
@@ -1838,7 +1652,6 @@ export default function Home() {
             (like Amazon S3) without needing login credentials.
           </Text>
         </Note>
-
         <Note>
           <N>185.</N>
           <Text>
@@ -1849,7 +1662,6 @@ export default function Home() {
             clarify reasoning by focusing on logic and hypothetical outcomes.
           </Text>
         </Note>
-
         <Note>
           <N>186.</N>
           <Text>
@@ -1862,7 +1674,6 @@ export default function Home() {
             if it has no limits or understanding of the wider world.
           </Text>
         </Note>
-
         <Note>
           <N>187.</N>
           <Text>
@@ -1873,7 +1684,6 @@ export default function Home() {
             or use apps while talking on the phone.
           </Text>
         </Note>
-
         <Note>
           <N>188.</N>
           <Text>
@@ -1883,7 +1693,6 @@ export default function Home() {
             displayed (impressions), expressed as a percentage.
           </Text>
         </Note>
-
         <Note>
           <N>189.</N>
           <Text>
@@ -1895,7 +1704,6 @@ export default function Home() {
             account security beyond just a password.
           </Text>
         </Note>
-
         <Note>
           <N>190.</N>
           <Text>
@@ -1907,7 +1715,6 @@ export default function Home() {
             verb in a sentence.
           </Text>
         </Note>
-
         <Note>
           <N>191.</N>
           <Text>
@@ -1917,7 +1724,6 @@ export default function Home() {
             principles: perceivable, operable, understandable, and robust.
           </Text>
         </Note>
-
         <Note>
           <N>192.</N>
           <Text>
@@ -1928,7 +1734,6 @@ export default function Home() {
             communicate reliably.
           </Text>
         </Note>
-
         <Note>
           <N>193.</N>
           <Text>
@@ -1937,7 +1742,6 @@ export default function Home() {
             one individual to another to repair damage or replace missing parts.
           </Text>
         </Note>
-
         <Note>
           <N>194.</N>
           <Text>
@@ -1947,6 +1751,17 @@ export default function Home() {
             files on a remote server using an FTP client or web browser. FTP
             operates on a client–server model, where one system hosts the files
             (server) and another connects to access and transfer them.
+          </Text>
+        </Note>
+
+        <Note>
+          <N>195.</N>
+          <Text>
+            <Key>Metasploitable</Key> is a deliberately vulnerable virtual
+            machine created for cybersecurity training. It is designed to help
+            learners practice penetration testing and security assessment by
+            providing a safe environment with known weaknesses to exploit and
+            study.
           </Text>
         </Note>
         {/* --- end --- */}
