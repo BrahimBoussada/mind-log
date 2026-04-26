@@ -1777,6 +1777,15 @@ export default function Home() {
             figure in modern art.
           </Text>
         </Note>
+
+        <Note>
+          <N>197.</N>
+          <Text>
+            <Key>Ngrok</Key> is a tool that creates a secure tunnel from the
+            internet to your local computer, allowing you to expose a local web
+            server or service to the public without deploying it online.
+          </Text>
+        </Note>
         {/* --- end --- */}
       </NoteWrapper>
 
