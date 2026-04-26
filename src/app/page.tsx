@@ -1764,6 +1764,19 @@ export default function Home() {
             study.
           </Text>
         </Note>
+
+        <Note>
+          <N>196.</N>
+          <Text>
+            <Key>Salvador Dalí</Key> was a Spanish painter and a major figure in
+            Surrealism, known for technically precise yet dreamlike imagery. His
+            most famous work, <em>The Persistence of Memory</em>, depicts
+            melting clocks to symbolize the instability of time and perception.
+            Dalí’s art draws on themes of dreams, the unconscious, and
+            psychological symbolism, making him a central and highly influential
+            figure in modern art.
+          </Text>
+        </Note>
         {/* --- end --- */}
       </NoteWrapper>
 
