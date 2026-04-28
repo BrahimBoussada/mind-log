@@ -1786,6 +1786,17 @@ export default function Home() {
             server or service to the public without deploying it online.
           </Text>
         </Note>
+
+        <Note>
+          <N>198.</N>
+          <Text>
+            <Key>Emerald</Key> is a precious green gemstone made from the
+            mineral beryl. Its distinctive green color comes from trace elements
+            like chromium and vanadium, and it is commonly used in jewelry as
+            one of the four traditional precious stones (along with diamond,
+            ruby, and sapphire).
+          </Text>
+        </Note>
         {/* --- end --- */}
       </NoteWrapper>
 
