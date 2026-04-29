@@ -1797,6 +1797,16 @@ export default function Home() {
             ruby, and sapphire).
           </Text>
         </Note>
+
+        <Note>
+          <N>199.</N>
+          <Text>
+            <Key>DPI (dots per inch)</Key> is the number of tiny printed dots
+            that fit into one inch of an image or print. A higher DPI means more
+            dots in the same space, which makes the image look sharper and more
+            detailed.
+          </Text>
+        </Note>
         {/* --- end --- */}
       </NoteWrapper>
 
