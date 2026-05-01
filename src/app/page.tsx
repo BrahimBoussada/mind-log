@@ -1807,6 +1807,19 @@ export default function Home() {
             detailed.
           </Text>
         </Note>
+
+        <Note>
+          <N>200.</N>
+          <Text>
+            <Key>Unikernel</Key> is a single executable image where an
+            application is compiled together with only the specific operating
+            system libraries it needs, instead of using a full general-purpose
+            OS. It runs directly on a hypervisor, has no separate user/kernel
+            space, and includes only the required drivers and functions, making
+            it very small, fast to boot, and with fewer security
+            vulnerabilities.
+          </Text>
+        </Note>
         {/* --- end --- */}
       </NoteWrapper>
 
