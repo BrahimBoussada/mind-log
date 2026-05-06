@@ -1820,6 +1820,16 @@ export default function Home() {
             vulnerabilities.
           </Text>
         </Note>
+
+        <Note>
+          <N>201.</N>
+          <Text>
+            <Key>Sigmoid Function</Key> is an S-shaped function that maps any
+            real number to a value between 0 and 1, often used to convert values
+            into probabilities. It is commonly used in machine learning,
+            especially logistic regression and neural networks.
+          </Text>
+        </Note>
         {/* --- end --- */}
       </NoteWrapper>
 
