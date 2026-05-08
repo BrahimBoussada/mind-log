@@ -1830,6 +1830,18 @@ export default function Home() {
             especially logistic regression and neural networks.
           </Text>
         </Note>
+
+        <Note>
+          <N>202.</N>
+          <Text>
+            <Key>Distributed System</Key> is a set of separate computers
+            connected over a network that work together to complete a task and
+            appear as one system. For example, an online game uses multiple
+            servers: one handles player movement, another handles chat, and
+            another stores game data, but they all coordinate so the game works
+            smoothly for the player.
+          </Text>
+        </Note>
         {/* --- end --- */}
       </NoteWrapper>
 
