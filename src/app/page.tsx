@@ -1842,6 +1842,15 @@ export default function Home() {
             smoothly for the player.
           </Text>
         </Note>
+
+        <Note>
+          <N>203.</N>
+          <Text>
+            <Key>Politics</Key> is the process by which people and groups
+            compete, negotiate, or cooperate to decide who gets power and how
+            society’s rules, resources, and decisions are made and enforced.
+          </Text>
+        </Note>
         {/* --- end --- */}
       </NoteWrapper>
 
