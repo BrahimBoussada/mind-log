@@ -1851,6 +1851,28 @@ export default function Home() {
             society’s rules, resources, and decisions are made and enforced.
           </Text>
         </Note>
+
+        <Note>
+          <N>204.</N>
+          <Text>
+            <Key>Plyometrics</Key> are explosive exercises characterized by
+            rapid muscle stretching followed by forceful contraction, designed
+            to enhance neuromuscular efficiency and the ability to generate
+            maximal force in minimal time, thereby improving power output,
+            speed, and overall athletic performance.
+          </Text>
+        </Note>
+
+        <Note>
+          <N>205.</N>
+          <Text>
+            <Key>Amenities</Key> are facilities, features, or services provided
+            within a place to improve comfort, convenience, and usability for
+            its users. They support people’s basic and additional needs while
+            using a space, such as restrooms, seating areas, Wi-Fi access,
+            drinking water stations, and prayer rooms in a campus environment.
+          </Text>
+        </Note>
         {/* --- end --- */}
       </NoteWrapper>
 
