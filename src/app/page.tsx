@@ -1873,6 +1873,16 @@ export default function Home() {
             drinking water stations, and prayer rooms in a campus environment.
           </Text>
         </Note>
+
+        <Note>
+          <N>206.</N>
+          <Text>
+            <Key>zram</Key> is a Linux kernel feature that creates a compressed
+            swap device in RAM, letting the system store less-used memory pages
+            in compressed form instead of writing them to disk, which speeds up
+            performance and reduces disk wear.
+          </Text>
+        </Note>
         {/* --- end --- */}
       </NoteWrapper>
 
